@@ -1,8 +1,8 @@
-<h2 style="text-align: center;">AMH 2010-21 Spring 0W65</h2>
-<h2 style="text-align: center;">U.S. History, 1492 - 1877</h2>
-<p style="text-align: center;">History Department, College of Arts and Humanities</p>
+<h2 style="text-align: center;">TNT 3000 Spring 21</h2>
+<h2 style="text-align: center;">Working with Digital Media</h2>
+<p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructor: James Stoddard</p>
+<p style="text-align: center;">Instructor: David, Javier, Hajer, and Jim</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor&nbsp;Information&nbsp;</h2>
