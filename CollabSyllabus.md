@@ -179,6 +179,316 @@
 <p>The Course Schedule can be found on Webcourses here: <a title="Schedule AMH 2010-21Spring 0W65" href="/courses/1371726/pages/schedule-amh-2010-21spring-0w65?wrap=1">Schedule AMH 2010-21Spring 0W65</a>
 </p>
 <hr />
+<table style="margin-left: auto; margin-right: auto; width: 92.9089%; height: 1739px;" border="1">
+    <tbody>
+        <tr style="height: 75px;">
+            <th style="height: 75px; width: 0.967118%;" scope="col" width="15%">
+                <p>Week/Dates</p>
+            </th>
+            <th style="height: 75px; width: 14.6033%;" scope="col" width="35%">
+                <p>Topic</p>
+            </th>
+            <th style="width: 12.2114%;">
+                <p>Readings/Sources</p>
+            </th>
+            <th style="height: 75px; width: 20.1644%;" scope="col" width="35%">
+                <p>Assignments</p>
+            </th>
+            <th style="height: 75px; width: 2.10688%;" scope="col" width="15%">
+                <p>Due Dates</p>
+            </th>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 1</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Orientation</p>
+                <p>&nbsp;</p>
+                <p>Unit 1: The Atlantic World: Exploration and Migration</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <h1 id="quiz_title">
+                    <span style="font-size: 12pt;">Academic Engagement Activity Syllabus Quiz</span>
+                </h1>
+                <p>&nbsp;</p>
+                <p>Discussion Post 1a or 1b (Early Submission)</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>1/15 at 11:59pm EST</p>
+                <p>1/17 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 125px;">
+            <td style="height: 125px; width: 0.967118%;" valign="top">
+                <p>Week 2</p>
+            </td>
+            <td style="height: 125px; width: 14.6033%;" valign="top">
+                <p>Unit 1: The Atlantic World: Exploration and Migration
+                    <br /><strong>
+                        <br />
+                    </strong>
+                </p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+            </td>
+            <td style="height: 125px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 1a or 1b</p>
+                <p>Unit 1 Quiz</p>
+            </td>
+            <td style="height: 125px; width: 2.10688%;" valign="top">
+                <p>1/24 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 113px;">
+            <td style="height: 113px; width: 0.967118%;" valign="top">
+                <p>Week 3</p>
+            </td>
+            <td style="height: 113px; width: 14.6033%;" valign="top">
+                <p>Unit 2: British North America and the Imperial Crisis</p>
+            </td>
+            <td style="width: 12.2114%;">Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</td>
+            <td style="height: 113px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 2a or 2b (Early Submission)</p>
+                <p>&nbsp;</p>
+            </td>
+            <td style="height: 113px; width: 2.10688%;" valign="top">
+                <p>1/31 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 113px;">
+            <td style="height: 113px; width: 0.967118%;" valign="top">
+                <p>Week 4</p>
+            </td>
+            <td style="height: 113px; width: 14.6033%;" valign="top">
+                <p>Unit 2: British North America and the Imperial Crisis</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
+            </td>
+            <td style="height: 113px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 2a or 2b</p>
+                <p>Unit 2 Quiz</p>
+            </td>
+            <td style="height: 113px; width: 2.10688%;" valign="top">
+                <p>2/7 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 5</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 3: The American Revolution and The New Republic</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>America's Founding Documents Essay (Early Submission)</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>2/14 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 6</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 3: The American Revolution and The New Republic</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>America's Founding Documents Essay</p>
+                <p>Unit 3 Quiz</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>2/21 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 7</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 4: The Age of Jackson &amp; Antebellum Reform</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 4a or 4b (Early Submission)</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>2/28 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 8</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 4: The Age of Jackson &amp; Antebellum Reform</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 4a or 4b</p>
+                <p>Unit 4 Quiz</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>3/7 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 9</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 5: The Antebellum North and South</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 5a or 5b (Early Submission)</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>3/14 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 10</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 5: The Antebellum North and South</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 5a or 5b</p>
+                <p>Unit 5 Quiz</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>3/21 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 11</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 6: Westward Expansion &amp; the Crisis of the 1850s</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>No Discussion Post, begin Final Exam Prep</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>3/28 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 12</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 6: Westward Expansion &amp; the Crisis of the 1850s</td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Unit 6 Quiz</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>4/4 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 13</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 7: The American Civil War &amp; Reconstruction</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Civil War &amp; Reconstruction</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 7a or 7b (Early Submission)</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>4/11 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 14</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Spring Break,&nbsp; April 11-18</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>No reading assignment</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Enjoy Spring Break</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>4/18 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 15</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Unit 7: The American Civil War &amp; Reconstruction&nbsp;</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Textbook Chs: Civil War &amp; Reconstruction</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Discussion Post 7a or 7b</p>
+                <p>Unit 7 Quiz</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>4/25 at 11:59pm EST</p>
+            </td>
+        </tr>
+        <tr style="height: 101px;">
+            <td style="height: 101px; width: 0.967118%;" valign="top">
+                <p>Week 16</p>
+            </td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">
+                <p>Exam Week, 4/28 to 5/4</p>
+            </td>
+            <td style="width: 12.2114%;">
+                <p>Study for the Final Exam</p>
+            </td>
+            <td style="height: 101px; width: 20.1644%;" valign="top">
+                <p>Final Exam</p>
+            </td>
+            <td style="height: 101px; width: 2.10688%;" valign="top">
+                <p>5/4 at 11:59pm EST</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
 <h2>University Services and Resources</h2>
 <h3>Academic Services and Resources</h3>
 <p>A list of available academic support and learning services is available at&nbsp;<a href="https://www.ucf.edu/services/" target="_blank" rel="noopener">UCF Student Services</a>. Click on "Academic Support and Learning Services"&nbsp;on the right-hand side to filter.&nbsp;&nbsp;</p>
