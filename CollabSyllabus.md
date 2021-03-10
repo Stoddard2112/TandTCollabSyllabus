@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">TNT 3000 Spring 21</h2>
+<h1 style="text-align: center;">TNT 3000 Spring 21</h1>
 <h2 style="text-align: center;">Working with Digital Media</h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
