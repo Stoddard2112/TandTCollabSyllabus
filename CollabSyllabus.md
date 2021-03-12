@@ -3,12 +3,12 @@
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructor: David, Javier, Hajer, and Jim</p>
+<p style="text-align: center;">Instructors: David, Javier, Hajer, and Jim</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor&nbsp;Information&nbsp;</h2>
 <ul>
-    <li>Instructor: James Stoddard</li>
+    <li>Instructors: Hajer, David, James, and Javier</li>
     <li>Office Location: Online only.</li>
     <li>Office Hours: Make appointment for an online meeting.</li>
     <li>Phone: (407) 823-2225</li>
