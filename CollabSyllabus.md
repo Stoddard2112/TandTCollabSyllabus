@@ -35,6 +35,7 @@
                 </em></strong></p>
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+            <li>Directing the Documentary (7th Edition) by Michael Rabiger </li>
         </ul>
     </li>
 </ul>
