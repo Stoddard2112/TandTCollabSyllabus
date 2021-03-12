@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 <h2>Instructor&nbsp;Information&nbsp;</h2>
 <ul>
-    <li>Instructor: Jim Stoddard</li>
+    <li>Instructor: James Stoddard</li>
     <li>Office Location: Online only.</li>
     <li>Office Hours: Make appointment for an online meeting.</li>
     <li>Phone: (407) 823-2225</li>
