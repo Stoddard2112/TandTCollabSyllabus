@@ -1,24 +1,24 @@
-<h1 style="text-align: center;">TNT 3000 Spring 21</h1>
-<h2 style="text-align: center;">Introduction to Digital Media (Community Engagement & Social Change)
+<h1 style="text-align: center;">DIG 3001 Spring 21</h1>
+<h2 style="text-align: center;">Digital Media | Community Engagement & Social Change
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructors: David, Javier, Hajer, and Jim</p>
+<p style="text-align: center;">Instructors: Hajer, David, James, and Javier</p>
 <hr />
 <p>&nbsp;</p>
-<h2>Instructor&nbsp;Information&nbsp;</h2>
+<h2>Instructor's&nbsp;Information&nbsp;</h2>
 <ul>
     <li>Instructors: Hajer, David, James, and Javier</li>
     <li>Office Location: Online only.</li>
     <li>Office Hours: Make appointment for an online meeting.</li>
     <li>Phone: (407) 823-2225</li>
-    <li>Digital Contact: James.Stoddard@ucf.edu or Webcourses@UCF messaging</li>
+    <li>Digital Contact: DigitalMedia@ucf.edu or Webcourses@UCF messaging</li>
 </ul>
 <h2 id="GCI">Course Information</h2>
 <ul>
     <li>Term: Spring, 2021</li>
     <li>Course Number &amp; Section: AMH 2010-21 Spring 0W65<strong></strong></li>
-    <li>Course Name: U.S. History 1492-1877</li>
+    <li>Course Name: 3001 DIG Digital Media | Community Engagement & Social Change</li>
     <li>Credit Hours: 3</li>
     <li>Course Modality: W</li>
 </ul>
