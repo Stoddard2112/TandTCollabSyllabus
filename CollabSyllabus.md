@@ -35,8 +35,9 @@
                 </em></strong></p>
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
-            <li>Directing the Documentary (7th Edition) by Michael Rabiger </li>
         </ul>
+     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8" </a> </em></strong></p>
+      <li>Directing the Documentary (7th Edition) by Michael Rabiger </li>
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
