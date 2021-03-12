@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">TNT 3000 Spring 21</h1>
-<h2 style="text-align: center;">Introduction to Digital Media (Community Engagement & Social Change) ![image](https://user-images.githubusercontent.com/71685017/110898780-dd70dd00-82cd-11eb-82e4-0a5205026277.png)
+<h2 style="text-align: center;">Introduction to Digital Media (Community Engagement & Social Change)
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
