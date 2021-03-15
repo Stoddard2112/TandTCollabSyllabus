@@ -3,7 +3,7 @@
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructors: Hajer, David, James, and Javier</p>
+<p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor's&nbsp;Information&nbsp;</h2>
