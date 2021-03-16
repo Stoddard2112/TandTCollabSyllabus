@@ -257,7 +257,7 @@
                 <p>Week 3</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 3: British North America and the Imperial Crisis</p>
+                <p>Unit 3: Title</p>
             </td>
             <td style="width: 12.2114%;">Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
@@ -273,7 +273,7 @@
                 <p>Week 4</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 4: British North America and the Imperial Crisis</p>
+                <p>Unit 4: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
@@ -291,7 +291,7 @@
                 <p>Week 5</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 5: The American Revolution and The New Republic</p>
+                <p>Unit 5: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
@@ -308,7 +308,7 @@
                 <p>Week 6</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 6: The American Revolution and The New Republic</p>
+                <p>Unit 6: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
@@ -326,7 +326,7 @@
                 <p>Week 7</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 7: The Age of Jackson &amp; Antebellum Reform</p>
+                <p>Unit 7: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
@@ -343,7 +343,7 @@
                 <p>Week 8</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 8: The Age of Jackson &amp; Antebellum Reform</p>
+                <p>Unit 8: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
@@ -361,7 +361,7 @@
                 <p>Week 9</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 9: The Antebellum North and South</p>
+                <p>Unit 9: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
@@ -378,7 +378,7 @@
                 <p>Week 10</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 10: The Antebellum North and South</p>
+                <p>Unit 10: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
@@ -396,7 +396,7 @@
                 <p>Week 11</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 11: Westward Expansion &amp; the Crisis of the 1850s</p>
+                <p>Unit 11: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
@@ -412,7 +412,7 @@
             <td style="height: 101px; width: 0.967118%;" valign="top">
                 <p>Week 12</p>
             </td>
-            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Westward Expansion &amp; the Crisis of the 1850s</td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
             </td>
@@ -428,7 +428,7 @@
                 <p>Week 13</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 13: The American Civil War &amp; Reconstruction</p>
+                <p>Unit 13: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
@@ -462,7 +462,7 @@
                 <p>Week 15</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 14: The American Civil War &amp; Reconstruction&nbsp;</p>
+                <p>Unit 14: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
