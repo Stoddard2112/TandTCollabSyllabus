@@ -219,7 +219,6 @@
                 <p>Read: "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <h1 id="quiz_title">
                     <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
