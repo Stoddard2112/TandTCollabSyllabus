@@ -220,7 +220,7 @@
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <h1 id="quiz_title">
-                    <span style="font-size: 12pt;">Academic Engagement Activity Syllabus Quiz</span>
+                    <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
                 <p>Discussion Post 1</p>
