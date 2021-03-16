@@ -222,7 +222,7 @@
                     <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
-                <p>Discussion Post 1</p>
+                <p>Discussion Post 1: What are the digital humanities?</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
