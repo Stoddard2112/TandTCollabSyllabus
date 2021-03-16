@@ -26,6 +26,7 @@
 <p>The course covers a broad period of early American history, from before Europeans made contact with American Indians in the fifteenth century through the aftermath of the Civil War in the nineteenth century. We will necessarily move quickly, being selective in the topics covered rather than exhaustive.</p>
 <p>The course will trace several themes including: the expansion of the political process, the changing lives of everyday Americans, the increasing tension between the North and the South, westward expansion, and the developing economy.</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
+<p> This course is an introduction to the privacy and security issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy and security. This course provides an interdisciplinary approach to conceptualize privacy and security through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy and security.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
@@ -45,6 +46,9 @@
     <li>1: Students will demonstrate knowledge of the chronology and significance of major events and movements in American history.</li>
     <li>2: Students will be able to gather, synthesize, and analyze information from appropriate resources and be able to critically evaluate information and sources for accuracy and credibility.</li>
     <li>3: Students will identify common human themes and the richness of diverse cultures.</li>
+    <li>4: Students will learn the main key terms and concepts in digital ethics, privacy, and security.</li>
+    <li>5: Students will define the role of the human factors in ethics, privacy, and security in the information age.</li>
+    <li>6: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
