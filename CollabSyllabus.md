@@ -211,7 +211,7 @@
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Orientation</p>
                 <p>&nbsp;</p>
-                <p>Unit 1: History of the Digital Humanities</p>
+                <p>Unit 1: Introduction to the Digital Humanities</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
@@ -223,6 +223,7 @@
                 </h1>
                 <p>&nbsp;</p>
                 <p>Discussion Post 1: What are the digital humanities?</p>
+                <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
@@ -234,18 +235,18 @@
                 <p>Week 2</p>
             </td>
             <td style="height: 125px; width: 14.6033%;" valign="top">
-                <p>Unit 1: The Atlantic World: Exploration and Migration
+                <p>Unit 2: Tools and Methods of the Digital Humanities
                     <br /><strong>
                         <br />
                     </strong>
                 </p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+                <p>Read: Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 1a or 1b</p>
-                <p>Unit 1 Quiz</p>
+                <p>Discussion Post 2: Describing tools and methods of DH</p>
+                <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 125px; width: 2.10688%;" valign="top">
                 <p>1/24 at 11:59pm EST</p>
