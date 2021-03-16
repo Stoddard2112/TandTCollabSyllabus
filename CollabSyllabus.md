@@ -176,8 +176,7 @@
         </tr>
     </tbody>
 </table>
-<p>Students sometimes dislike the +/- system. I use it because I think there's a real difference between, say, an 89 and an 80 (or really a 79.5 rounded up). It doesn't seem fair that both should earn Bs. I do wish the university had an A+. But it doesn't, unfortunately.</p>
-<p>Consult the latest Undergraduate or Graduate <a href="http://catalog.ucf.edu/" target="_blank" rel="noopener">catalog</a> for regulations and procedures regarding grading such as Incomplete grades, grade changes, and grade forgiveness.</p>
+<p>Students sometimes dislike the +/- system. I use it because I think there's a real difference between, say, an 89 and an 80 (or really a 79.5 rounded up). It doesn't seem fair that both should earn Bs.  <a href="http://catalog.ucf.edu/" target="_blank" rel="noopener">catalog</a> for regulations and procedures regarding grading such as Incomplete grades, grade changes, and grade forgiveness.</p>
 <h2 id="ID">Course Schedule</h2>
 <p>The Course Schedule can be found on Webcourses here: <a title="Schedule AMH 2010-21Spring 0W65" href="/courses/1371726/pages/schedule-amh-2010-21spring-0w65?wrap=1">Schedule AMH 2010-21Spring 0W65</a>
 </p>
@@ -208,19 +207,19 @@
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Orientation</p>
                 <p>&nbsp;</p>
-                <p>Unit 1: The Atlantic World: Exploration and Migration</p>
+                <p>Unit 1: History of the Digital Humanities</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+                <p>Read: "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <h1 id="quiz_title">
                     <span style="font-size: 12pt;">Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
-                <p>Discussion Post 1a or 1b (Early Submission)</p>
+                <p>Discussion Post 1</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
