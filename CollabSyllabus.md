@@ -55,17 +55,9 @@
     <li>Assignments:
         <br />
         <ul>
-            <li>40% Discussions (5)</li>
-            <li>40% Unit Quizzes (7)</li>
+            <li>45% Discussions (5)</li>
+            <li>45% Unit Quizzes (7)</li>
         </ul>
-    </li>
-    <li>Essay
-        <ul>
-            <li>
-                <span style="font-size: 12pt;">10% America's Founding Documents Essay</span>
-            </li>
-        </ul>
-    </li>
     <li>Exam
         <ul>
             <li>10% Final Exam</li>
@@ -79,27 +71,22 @@
 <h2>Assignment Policies &amp; Procedures</h2>
 <h3>Discussions</h3>
 <p>As part of the course&rsquo;s GEP Foundation in <em>Communication</em>, students will be asked to participate in online discussions throughout the semester.</p>
-<p>Each unit will have 2 options for you to choose from. But you only participate in 1 discussion per unit. Generally, discussions are based on reading from the text, documentaries, and other online sources.</p>
-<p>IMPORTANT: <strong>You only do 1 discussion per unit</strong>. I'm just giving you a choice to better match student interests.</p>
+<p>Each unit will have a discussion post prompt. Generally, discussions are based on reading from the text, documentaries, and other online sources.</p>
 <p>The discussions will be due at the end of each unit and may be completed at any time during the unit.</p>
-<p>Discussion participation will each be graded out of 7 points, variable according to quality. You can <strong>earn a bonus points in 2 ways</strong>.</p>
+<p>Discussion participation will be graded out of 7 points, variable according to quality. You can <strong>earn a bonus points by:</strong>.</p>
 <ul>
-    <li>First, by posting early in a unit, usually by 11:59 PM of a unit's first Sunday. Each discussion assignment will have the precise date. You will receive a half point (.5) added to your grade for that discussion.</li>
-    <li>Second, by making a substantial reply to another student's post. You will also receive a half point (.5) added to your grade for that discussion. That's .5 total--not .5 for each reply you make. <strong>Note that making a reply is optional</strong>: you receive credit if you make a quality reply, but you are not penalized if you don't reply.</li>
+    <li>Making a substantial reply to another student's post. You will receive a half point (.5) added to your grade for that discussion. That's .5 total--not .5 for each reply you make. <strong>Note that making a reply is optional</strong>: you receive credit if you make a quality reply, but you are not penalized if you don't reply.</li>
 </ul>
-<p>It is possible to receive a grade of 8 out of 7 for each discussion. The bonuses quickly add up. Each semester I have several students receive over 100% for the discussion portion of the course.</p>
+<p>It is possible to receive a grade of 7.5 out of 7 for each discussion.</p>
 <p>For more information about discussion grading, see the <a title="Discussion Post Guide and Rubric" href="/courses/1362486/pages/discussion-post-guide-and-rubric">Discussion Post Guide and Rubric</a>.</p>
 <h3>Quizzes</h3>
 <p>As part of the course&rsquo;s commitment to the <em>Cultural Interactions </em>and <em>Interpretation and Evaluation </em>Foundations of the GEP, there will be quizzes throughout the semester, to be completed through Webcourses.</p>
-<p>I have created the quiz questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
+<p>We have created the quiz questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
 <p>Quizzes will cover material since the previous quiz; they are not cumulative. Questions may be drawn from lectures, textbook chapters, and/or other assigned readings/videos/documentaries.</p>
-<p>I will aim to have quizzes posted by Wednesday during the week they are assigned.</p>
-<h3>Essay</h3>
-<p>During Unit 3, there will be no discussion post.&nbsp; Instead, the students will write an essay about America's Founding Documents.&nbsp; The essay is graded out of 100 points and is worth 10% of the student's final grade.&nbsp; The essay serves as a modified mid-term exam for this course.&nbsp; For more information and specifics about the essay, please refer to the essay's assignment prompt, <a title="America's Founding Documents Essay" href="/courses/1371726/assignments/6943971?wrap=1">America's Founding Documents Essay.</a>
-</p>
+<p>We will aim to have quizzes posted by Wednesday during the week they are assigned.</p>
 <h3>Exam</h3>
 <p>There is one exam in this course, a cumulative Final Exam.&nbsp; The exam contains 100 questions and is worth 100 points.&nbsp; The Final exam counts for 10% of the student's final grade.&nbsp; The exam is composed of questions from the several Unit Quizzes throughout the course.&nbsp;</p>
-<p>I have created the Final Exam questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
+<p>We have created the Final Exam questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the exam or 2. Use any resources outside of our class (such as the internet).</strong></p>
 <h3>Make-up Work and Late Assignments</h3>
 <p>Per university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for authorized university-sponsored activities, religious observances, or legal obligations (such as jury duty). If this participation conflicts with your course assignments, I will offer a&nbsp;reasonable opportunity for you to complete missed assignments and/or exams. The make-up assignment and grading scale will be equivalent to the missed assignment and its grading scale. In the case of an authorized university activity, it is your responsibility to show me a signed copy of the Program Verification Form for which you will be absent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead of time to notify me of upcoming needs.</p>
 <p>
@@ -110,7 +97,7 @@
     </span>
 </p>
 <h3>Communication</h3>
-<p>It should be easy to get in touch with me either via email or the Webcourses mail tool (both end up at the same place on my end). I check email regularly and can promise a prompt but not instantaneous response. Please be aware that I try not to look at emails on Sundays. If do not receive a response in a couple days, that probably means I've forgotten. A reminder would be appreciated.</p>
+<p>It should be easy to get in touch with us either via email or the Webcourses mail tool. We check email regularly and can promise a prompt but not instantaneous response. If you do not receive a response in a couple days, a kind reminder would be appreciated.</p>
 <h2 id="AGP">Grading Scale</h2>
 <p>The course will use plus/minus grades according to the scale below.</p>
 <table>
