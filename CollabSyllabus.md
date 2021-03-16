@@ -26,6 +26,7 @@
 <p>The course covers a broad period of early American history, from before Europeans made contact with American Indians in the fifteenth century through the aftermath of the Civil War in the nineteenth century. We will necessarily move quickly, being selective in the topics covered rather than exhaustive.</p>
 <p>The course will trace several themes including: the expansion of the political process, the changing lives of everyday Americans, the increasing tension between the North and the South, westward expansion, and the developing economy.</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
+<p> This course is an introduction to the privacy and security issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy and security. This course provides an interdisciplinary approach to conceptualize privacy and security through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy and security.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
