@@ -30,7 +30,7 @@ This course takes students beyond the technological aspects by bringing their vi
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
-    <li>Required Materials (Weeks 1-4)
+    <li>(Weeks 1-4)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
@@ -38,7 +38,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-    <li>Required Materials (Weeks 5-8)
+    <li>(Weeks 5-8)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
@@ -46,7 +46,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-    <li>Required Materials (Weeks 9-12)
+    <li>(Weeks 9-12)
         <p><strong><em>
                     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"> Directing the Documentary</a>.
                 </em></strong></p>
@@ -54,7 +54,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>This book aids students to create their own stories digitally or traditionally from their own perspectives, with current available technologies.</li>
     </ul>
     </li>
-    <li>Required Materials (Weeks 13-16)
+    <li>(Weeks 13-16)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
