@@ -370,11 +370,10 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 9</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 9: Title</p>
+                <p>Unit 9: You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Chp. 1: Directing the Documentary
-                    (You and Your Ideas)
+                <p>Read: Chp. 1: Directing the Documentary  
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -389,11 +388,10 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 10</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 10: Title</p>
+                <p>Unit 10: Documentaries and Film Language</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read: Chp. 2: Directing the Documentary
-                    (Documentaries and Film Language)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -409,15 +407,14 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 11</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 11: Title</p>
+                <p>Unit 11: Documentary Aesthetics</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read: Chp. 6: Directing the Documentary
-                    (Documentary Aesthetics)
            </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>No Discussion Post: Express social perspectives you would like to offer to a digital media project</p>
+                <p>Discussion Post: Express social perspectives you would like to offer to a digital media project</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -425,12 +422,11 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 12</p>
+                <p>Unit 12: Production</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
             <td style="width: 12.2114%;">
                 <p>Read Chp. 4: Directing the Documentary
-                    (Production)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
