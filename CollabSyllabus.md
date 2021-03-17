@@ -38,7 +38,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-    <ul>
+    
     <li>Required Materials (Weeks 5-8)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
