@@ -40,7 +40,8 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
     <li>Required Materials
         <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                    <a href=="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"> Directing the Documentary![image](https://user-images.githubusercontent.com/71685017/111420105-0247c480-86c1-11eb-8818-43cee5beefb8.png)
+</a>.
                 </em></strong></p>
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
