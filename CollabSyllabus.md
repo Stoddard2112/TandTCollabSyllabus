@@ -35,6 +35,12 @@
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
         </ul>
+        <p><strong><em>
+                    <a href="https://www.amazon.com/Internet-Law-Cases-Materials-2019-ebook/dp/B07VT9FXLV/ref=sr_1_1?dchild=1&keywords=Goldman%2C+Eric.+Internet+Law%3A+Cases+%26+Materials+%282019+Edition%29&qid=1616019855&sr=8-1">Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)</a>.
+                </em></strong></p>
+        <ul>
+            <li>You can find this book in Amazon or any other store at a very good price.</li>
+        </ul>
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
