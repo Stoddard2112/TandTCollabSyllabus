@@ -351,7 +351,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 9: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs:Directing the Documentary Pt. 1
+                <p>Textbook Chp. 1: Directing the Documentary
                     (You and Your Ideas)
         </p>
             </td>
@@ -370,12 +370,12 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 10: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Directing the Documentary Pt. 2
+                <p>Textbook Chp. 2: Directing the Documentary
                     (Documentaries and Film Language)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Bring your perspectives of film approach with accessable technologies</p>
+                <p>Discussion Post: Bring your digital media perspectives with accessable technologies</p>
                 <p>Unit 5 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
@@ -390,12 +390,12 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 11: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Directing the Documentary Pt. 6
+                <p>Textbook Chp. 6: Directing the Documentary
                     (Documentary Aesthetics)
            </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>No Discussion Post: Discuss your social perspectives you would like to offer to a digital media expression</p>
+                <p>No Discussion Post: Express social perspectives you would like to offer to a digital media project</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -407,12 +407,12 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Directing the Documentary Pt. 3
+                <p>Textbook Chp. 4: Directing the Documentary
                     (Production)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Attempt a digital media capture of a natural event in your life</p>
+                <p>Digital Media Project: Digitally capture a natural moment from your day</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/4 at 11:59pm EST</p>
