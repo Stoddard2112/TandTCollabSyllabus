@@ -23,8 +23,8 @@
     <li>Course Modality: W</li>
 </ul>
 <h2 id="CD">Course Description</h2>
-<p>The course covers a broad period of early American history, from before Europeans made contact with American Indians in the fifteenth century through the aftermath of the Civil War in the nineteenth century. We will necessarily move quickly, being selective in the topics covered rather than exhaustive.</p>
-<p>The course will trace several themes including: the expansion of the political process, the changing lives of everyday Americans, the increasing tension between the North and the South, westward expansion, and the developing economy.</p>
+<p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. 
+This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
 <p> This course is an introduction to the privacy and security issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy and security. This course provides an interdisciplinary approach to conceptualize privacy and security through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy and security.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
