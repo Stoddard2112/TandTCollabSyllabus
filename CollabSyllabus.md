@@ -38,6 +38,14 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
+    <li>Required Materials
+        <p><strong><em>
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                </em></strong></p>
+        <ul>
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+    </ul>
+    </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
 <ul>
