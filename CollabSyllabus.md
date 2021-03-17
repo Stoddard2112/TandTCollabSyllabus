@@ -351,7 +351,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 9: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read Chp. 1: Directing the Documentary
+                <p>Read: Chp. 1: Directing the Documentary
                     (You and Your Ideas)
         </p>
             </td>
@@ -370,7 +370,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 10: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read Chp. 2: Directing the Documentary
+                <p>Read: Chp. 2: Directing the Documentary
                     (Documentaries and Film Language)
         </p>
             </td>
@@ -390,7 +390,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 11: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read Chp. 6: Directing the Documentary
+                <p>Read: Chp. 6: Directing the Documentary
                     (Documentary Aesthetics)
            </p>
             </td>
