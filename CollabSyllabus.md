@@ -37,13 +37,12 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
         </ul>
-     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"</a> 
+       <p><strong><em>
+                    <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"</a> 
                 </em></strong></p>
-        <ul>
-      <li>Directing the Documentary (7th Edition) by Michael Rabiger </a>
-      </em></strong></p>
-        <ul>
+       <ul>
             <li>This book aids students to create their own stories digitally or traditionally from their own perspectives, with current available technologies.</li>
+    </ul>
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
