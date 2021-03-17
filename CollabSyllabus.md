@@ -40,10 +40,26 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
     <li>Required Materials
         <p><strong><em>
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                </em></strong></p>
+        <ul>
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+    </ul>
+    </li>
+    <li>Required Materials
+        <p><strong><em>
                     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"> Directing the Documentary</a>.
                 </em></strong></p>
         <ul>
             <li>This book aids students to create their own stories digitally or traditionally from their own perspectives, with current available technologies.</li>
+    </ul>
+    </li>
+    <li>Required Materials
+        <p><strong><em>
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                </em></strong></p>
+        <ul>
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
 </ul>
