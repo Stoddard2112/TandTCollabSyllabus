@@ -351,10 +351,12 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 9: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+                <p>Textbook Chs:Directing the Documentary Pt. 1
+                    (You and Your Ideas)
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 5a or 5b (Early Submission)</p>
+                <p>Discussion Post: Write your perspectives on society and digital media</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/14 at 11:59pm EST</p>
@@ -368,10 +370,12 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 10: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+                <p>Textbook Chs: Directing the Documentary Pt. 2
+                    (Documentaries and Film Language)
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 5a or 5b</p>
+                <p>Discussion Post: Bring your perspectives of film approach with accessable technologies</p>
                 <p>Unit 5 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
@@ -386,10 +390,12 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 11: Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+                <p>Textbook Chs: Directing the Documentary Pt. 6
+                    (Documentary Aesthetics)
+           </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>No Discussion Post, begin Final Exam Prep</p>
+                <p>No Discussion Post: Discuss your social perspectives you would like to offer to a digital media expression</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -401,10 +407,12 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+                <p>Textbook Chs: Directing the Documentary Pt. 3
+                    (Production)
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Unit 6 Quiz</p>
+                <p>Attempt a digital media capture of a natural event in your life</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/4 at 11:59pm EST</p>
