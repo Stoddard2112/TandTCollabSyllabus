@@ -41,7 +41,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 </em></strong></p>
         <ul>
             <li>This book aids students to create their own stories digitally or traditionally from their own perspectives, with current available technologies.</li>
-    <ul>
+    </ul>
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
