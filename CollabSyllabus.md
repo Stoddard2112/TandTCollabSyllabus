@@ -44,15 +44,16 @@ This course takes students beyond the technological aspects by bringing their vi
                 </em></strong></p>
         <ul>
             <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
-            <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy." The Information Society 14.4 (1998): 275-284.</li>
+            <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
     </ul>
     </li>
       <li>(Weeks 6)
         <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                    <a>New Approaches to Information Privacy.</a> 
                 </em></strong></p>
         <ul>
-            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+            <li> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</li>
+            <li>Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</li>
     </ul>
     </li>
       <li>(Weeks 5-8)
