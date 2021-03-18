@@ -21,7 +21,7 @@
 <h2 id="GCI">Course Information</h2>
 <ul>
     <li>Term: Spring, 2021</li>
-    <li>Course Number &amp; Section: AMH 2010-21 Spring 0W65<strong></strong></li>
+    <li>Course Number &amp; Section: ENG 3001 Spring 0W65<strong></strong></li>
     <li>Course Name: 3001 DIG Digital Media | Community Engagement & Social Change</li>
     <li>Credit Hours: 3</li>
     <li>Course Modality: W</li>
