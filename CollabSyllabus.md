@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">DIG 3001 Spring 21</h1>
+<h1 style="text-align: center;">DIG 3000 Spring 21</h1>
 <h2 style="text-align: center;">Digital Media | Community Engagement & Social Change
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 <p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier Molinares</p>
 =======
-<p style="text-align: center;">Instructors: Hajer Albalawi, David Bailey, James, and Javier Molinares</p>
+<p style="text-align: center;">Instructors: Hajer Albalawi, David Bailey, James, and Javier</p>
 >>>>>>> bfb74f2348e6ccd41344747391a623e1a2ffdf9b
 <hr />
 <p>&nbsp;</p>
@@ -95,6 +95,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>You can buy this book in Amazon.com.</li>
     </ul>
+>>>>>>> 6de887d6e716d39f5c59c22ef0ccc22ce84cae5d
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
