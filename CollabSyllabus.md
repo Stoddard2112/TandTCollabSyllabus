@@ -26,7 +26,7 @@
 <p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. 
 This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
-<p> This course is an introduction to the privacy and security issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy and security. This course provides an interdisciplinary approach to conceptualize privacy and security through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy and security.</p>
+<p> This course is an introduction to the privacy issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy. This course provides an interdisciplinary approach to conceptualize privacy through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
@@ -68,8 +68,8 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>1: Students will demonstrate knowledge of the chronology and significance of major events and movements in American history.</li>
     <li>2: Students will be able to gather, synthesize, and analyze information from appropriate resources and be able to critically evaluate information and sources for accuracy and credibility.</li>
     <li>3: Students will identify common human themes and the richness of diverse cultures.</li>
-    <li>4: Students will learn the main key terms and concepts in digital ethics, privacy, and security.</li>
-    <li>5: Students will define the role of the human factors in ethics, privacy, and security in the information age.</li>
+    <li>4: Students will learn the main key terms and concepts in digitalprivacy.</li>
+    <li>5: Students will define the role of the human factors in privacy in the information age.</li>
     <li>6: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
