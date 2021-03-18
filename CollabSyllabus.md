@@ -3,7 +3,7 @@
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier</p>
+<p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier Molinares</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor's&nbsp;Information&nbsp;</h2>
@@ -36,14 +36,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 </em></strong></p>
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
-<<<<<<< HEAD
-        </ul>
-        <p><strong><em>
-                    <a href="https://www.amazon.com/Internet-Law-Cases-Materials-2019-ebook/dp/B07VT9FXLV/ref=sr_1_1?dchild=1&keywords=Goldman%2C+Eric.+Internet+Law%3A+Cases+%26+Materials+%282019+Edition%29&qid=1616019855&sr=8-1">Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)</a>.
-                </em></strong></p>
-        <ul>
-            <li>You can find this book in Amazon or any other store at a very good price.</li>
-        </ul>
+
 =======
     </ul>
     </li>
@@ -93,10 +86,10 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
     <li>(Weeks 13-16)
         <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                    <a href="https://www.amazon.com/Internet-Law-Cases-Materials-2019-ebook/dp/B07VT9FXLV/ref=sr_1_1?dchild=1&keywords=Goldman%2C+Eric.+Internet+Law%3A+Cases+%26+Materials+%282019+Edition%29&qid=1616019855&sr=8-1">Internet Law: Cases & Materials</a>.
                 </em></strong></p>
         <ul>
-            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+            <li>You can buy this book in Amazon.com.</li>
     </ul>
 >>>>>>> 6de887d6e716d39f5c59c22ef0ccc22ce84cae5d
     </li>
