@@ -65,12 +65,13 @@ This course takes students beyond the technological aspects by bringing their vi
             <li> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007.</li>
     </ul>
     </li>
-      <li>(Weeks 5-8)
+      <li>(Weeks 8)
         <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                    <a>Anonymity and De-anonymization</a>.
                 </em></strong></p>
         <ul>
-            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+            <li>Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2 (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</li>
+            <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
     </ul>
     </li>
       <li>(Weeks 5-8)
