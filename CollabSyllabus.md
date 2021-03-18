@@ -40,7 +40,7 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
     <li>(Weeks 5)
         <p><strong><em>
-                    <a Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</a>.
+                    < Privacy in History.</a> 
                 </em></strong></p>
         <ul>
             <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
