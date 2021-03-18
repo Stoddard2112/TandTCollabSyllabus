@@ -74,14 +74,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
     </ul>
     </li>
-      <li>(Weeks 5-8)
-        <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
-                </em></strong></p>
-        <ul>
-            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
-    </ul>
-    </li>
     <li>(Weeks 9-12)
         <p><strong><em>
                     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"> Directing the Documentary</a>.
