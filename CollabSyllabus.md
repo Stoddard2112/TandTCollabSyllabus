@@ -61,7 +61,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     <a>Privacy Risks and Threats; Algorithmic Privacy</a> 
                 </em></strong></p>
         <ul>
-            <li>Calo, M.Ryan(2011)"The Boundaries of Privacy Harm,"Indiana Law Journal: Vol. 86 :Iss. 3.Article 8 </li>
+            <li>Calo,M.Ryan(2011)"The Boundaries of Privacy Harm,"Indiana Law Journal: Vol. 86 :Iss. 3.Article 8. </li>
             <li> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007.</li>
     </ul>
     </li>
