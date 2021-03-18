@@ -1,39 +1,42 @@
-<h1 style="text-align: center;">TNT 3000 Spring 21</h1>
-<h2 style="text-align: center;">Introduction to Digital Media</h2>
+<h1 style="text-align: center;">DIG 3001 Spring 21</h1>
+<h2 style="text-align: center;">Digital Media | Community Engagement & Social Change
+</h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructor: David, Javier, Hajer, and Jim</p>
+<p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier</p>
 <hr />
 <p>&nbsp;</p>
-<h2>Instructor&nbsp;Information&nbsp;</h2>
+<h2>Instructor's&nbsp;Information&nbsp;</h2>
 <ul>
-    <li>Instructor: Jim Stoddard</li>
+    <li>Instructors: Hajer Albalawi, David, James, and Javier</li>
     <li>Office Location: Online only.</li>
     <li>Office Hours: Make appointment for an online meeting.</li>
     <li>Phone: (407) 823-2225</li>
-    <li>Digital Contact: James.Stoddard@ucf.edu or Webcourses@UCF messaging</li>
+    <li>Digital Contact: DigitalMedia@ucf.edu or Webcourses@UCF messaging</li>
 </ul>
 <h2 id="GCI">Course Information</h2>
 <ul>
     <li>Term: Spring, 2021</li>
     <li>Course Number &amp; Section: AMH 2010-21 Spring 0W65<strong></strong></li>
-    <li>Course Name: U.S. History 1492-1877</li>
+    <li>Course Name: 3001 DIG Digital Media | Community Engagement & Social Change</li>
     <li>Credit Hours: 3</li>
     <li>Course Modality: W</li>
 </ul>
 <h2 id="CD">Course Description</h2>
-<p>The course covers a broad period of early American history, from before Europeans made contact with American Indians in the fifteenth century through the aftermath of the Civil War in the nineteenth century. We will necessarily move quickly, being selective in the topics covered rather than exhaustive.</p>
-<p>The course will trace several themes including: the expansion of the political process, the changing lives of everyday Americans, the increasing tension between the North and the South, westward expansion, and the developing economy.</p>
+<p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. 
+This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
+<p> This course is an introduction to the privacy issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy. This course provides an interdisciplinary approach to conceptualize privacy through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
-    <li>Required Materials
+    <li>(Weeks 1-4)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
         <ul>
             <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+<<<<<<< HEAD
         </ul>
         <p><strong><em>
                     <a href="https://www.amazon.com/Internet-Law-Cases-Materials-2019-ebook/dp/B07VT9FXLV/ref=sr_1_1?dchild=1&keywords=Goldman%2C+Eric.+Internet+Law%3A+Cases+%26+Materials+%282019+Edition%29&qid=1616019855&sr=8-1">Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)</a>.
@@ -41,6 +44,61 @@
         <ul>
             <li>You can find this book in Amazon or any other store at a very good price.</li>
         </ul>
+=======
+    </ul>
+    </li>
+    <li>(Weeks 5)
+        <p><strong><em>
+                    <a>Privacy in History.</a> 
+                </em></strong></p>
+        <ul>
+            <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
+            <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
+    </ul>
+    </li>
+      <li>(Weeks 6)
+        <p><strong><em>
+                    <a>New Approaches to Information Privacy.</a> 
+                </em></strong></p>
+        <ul>
+            <li> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</li>
+            <li>Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</li>
+    </ul>
+    </li>
+      <li>(Weeks 7)
+        <p><strong><em>
+                    <a>Privacy Risks and Threats; Algorithmic Privacy</a> 
+                </em></strong></p>
+        <ul>
+            <li>Calo,M.Ryan(2011)"The Boundaries of Privacy Harm,"Indiana Law Journal: Vol. 86 :Iss. 3.Article 8. </li>
+            <li> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007.</li>
+    </ul>
+    </li>
+      <li>(Weeks 8)
+        <p><strong><em>
+                    <a>Anonymity and De-anonymization</a>.
+                </em></strong></p>
+        <ul>
+            <li>Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2 (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</li>
+            <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
+    </ul>
+    </li>
+    <li>(Weeks 9-12)
+        <p><strong><em>
+                    <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8"> Directing the Documentary</a>.
+                </em></strong></p>
+        <ul>
+            <li>This book aids students to create their own stories digitally from their own perspectives, with current available technologies.</li>
+    </ul>
+    </li>
+    <li>(Weeks 13-16)
+        <p><strong><em>
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                </em></strong></p>
+        <ul>
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
+    </ul>
+>>>>>>> 6de887d6e716d39f5c59c22ef0ccc22ce84cae5d
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
@@ -48,23 +106,18 @@
     <li>1: Students will demonstrate knowledge of the chronology and significance of major events and movements in American history.</li>
     <li>2: Students will be able to gather, synthesize, and analyze information from appropriate resources and be able to critically evaluate information and sources for accuracy and credibility.</li>
     <li>3: Students will identify common human themes and the richness of diverse cultures.</li>
+    <li>4: Students will learn the main key terms and concepts in digitalprivacy.</li>
+    <li>5: Students will define the role of the human factors in privacy in the information age.</li>
+    <li>6: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
     <li>Assignments:
         <br />
         <ul>
-            <li>40% Discussions (5)</li>
-            <li>40% Unit Quizzes (7)</li>
+            <li>45% Discussions (5)</li>
+            <li>45% Unit Quizzes (7)</li>
         </ul>
-    </li>
-    <li>Essay
-        <ul>
-            <li>
-                <span style="font-size: 12pt;">10% America's Founding Documents Essay</span>
-            </li>
-        </ul>
-    </li>
     <li>Exam
         <ul>
             <li>10% Final Exam</li>
@@ -78,27 +131,22 @@
 <h2>Assignment Policies &amp; Procedures</h2>
 <h3>Discussions</h3>
 <p>As part of the course&rsquo;s GEP Foundation in <em>Communication</em>, students will be asked to participate in online discussions throughout the semester.</p>
-<p>Each unit will have 2 options for you to choose from. But you only participate in 1 discussion per unit. Generally, discussions are based on reading from the text, documentaries, and other online sources.</p>
-<p>IMPORTANT: <strong>You only do 1 discussion per unit</strong>. I'm just giving you a choice to better match student interests.</p>
+<p>Each unit will have a discussion post prompt. Generally, discussions are based on reading from the text, documentaries, and other online sources.</p>
 <p>The discussions will be due at the end of each unit and may be completed at any time during the unit.</p>
-<p>Discussion participation will each be graded out of 7 points, variable according to quality. You can <strong>earn a bonus points in 2 ways</strong>.</p>
+<p>Discussion participation will be graded out of 7 points, variable according to quality. You can <strong>earn a bonus points by:</strong>.</p>
 <ul>
-    <li>First, by posting early in a unit, usually by 11:59 PM of a unit's first Sunday. Each discussion assignment will have the precise date. You will receive a half point (.5) added to your grade for that discussion.</li>
-    <li>Second, by making a substantial reply to another student's post. You will also receive a half point (.5) added to your grade for that discussion. That's .5 total--not .5 for each reply you make. <strong>Note that making a reply is optional</strong>: you receive credit if you make a quality reply, but you are not penalized if you don't reply.</li>
+    <li>Making a substantial reply to another student's post. You will receive a half point (.5) added to your grade for that discussion. That's .5 total--not .5 for each reply you make. <strong>Note that making a reply is optional</strong>: you receive credit if you make a quality reply, but you are not penalized if you don't reply.</li>
 </ul>
-<p>It is possible to receive a grade of 8 out of 7 for each discussion. The bonuses quickly add up. Each semester I have several students receive over 100% for the discussion portion of the course.</p>
+<p>It is possible to receive a grade of 7.5 out of 7 for each discussion.</p>
 <p>For more information about discussion grading, see the <a title="Discussion Post Guide and Rubric" href="/courses/1362486/pages/discussion-post-guide-and-rubric">Discussion Post Guide and Rubric</a>.</p>
 <h3>Quizzes</h3>
 <p>As part of the course&rsquo;s commitment to the <em>Cultural Interactions </em>and <em>Interpretation and Evaluation </em>Foundations of the GEP, there will be quizzes throughout the semester, to be completed through Webcourses.</p>
-<p>I have created the quiz questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
+<p>We have created the quiz questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
 <p>Quizzes will cover material since the previous quiz; they are not cumulative. Questions may be drawn from lectures, textbook chapters, and/or other assigned readings/videos/documentaries.</p>
-<p>I will aim to have quizzes posted by Wednesday during the week they are assigned.</p>
-<h3>Essay</h3>
-<p>During Unit 3, there will be no discussion post.&nbsp; Instead, the students will write an essay about America's Founding Documents.&nbsp; The essay is graded out of 100 points and is worth 10% of the student's final grade.&nbsp; The essay serves as a modified mid-term exam for this course.&nbsp; For more information and specifics about the essay, please refer to the essay's assignment prompt, <a title="America's Founding Documents Essay" href="/courses/1371726/assignments/6943971?wrap=1">America's Founding Documents Essay.</a>
-</p>
+<p>We will aim to have quizzes posted by Wednesday during the week they are assigned.</p>
 <h3>Exam</h3>
 <p>There is one exam in this course, a cumulative Final Exam.&nbsp; The exam contains 100 questions and is worth 100 points.&nbsp; The Final exam counts for 10% of the student's final grade.&nbsp; The exam is composed of questions from the several Unit Quizzes throughout the course.&nbsp;</p>
-<p>I have created the Final Exam questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
+<p>We have created the Final Exam questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the exam or 2. Use any resources outside of our class (such as the internet).</strong></p>
 <h3>Make-up Work and Late Assignments</h3>
 <p>Per university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for authorized university-sponsored activities, religious observances, or legal obligations (such as jury duty). If this participation conflicts with your course assignments, I will offer a&nbsp;reasonable opportunity for you to complete missed assignments and/or exams. The make-up assignment and grading scale will be equivalent to the missed assignment and its grading scale. In the case of an authorized university activity, it is your responsibility to show me a signed copy of the Program Verification Form for which you will be absent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead of time to notify me of upcoming needs.</p>
 <p>
@@ -109,7 +157,7 @@
     </span>
 </p>
 <h3>Communication</h3>
-<p>It should be easy to get in touch with me either via email or the Webcourses mail tool (both end up at the same place on my end). I check email regularly and can promise a prompt but not instantaneous response. Please be aware that I try not to look at emails on Sundays. If do not receive a response in a couple days, that probably means I've forgotten. A reminder would be appreciated.</p>
+<p>It should be easy to get in touch with us either via email or the Webcourses mail tool. We check email regularly and can promise a prompt but not instantaneous response. If you do not receive a response in a couple days, a kind reminder would be appreciated.</p>
 <h2 id="AGP">Grading Scale</h2>
 <p>The course will use plus/minus grades according to the scale below.</p>
 <table>
@@ -179,8 +227,7 @@
         </tr>
     </tbody>
 </table>
-<p>Students sometimes dislike the +/- system. I use it because I think there's a real difference between, say, an 89 and an 80 (or really a 79.5 rounded up). It doesn't seem fair that both should earn Bs. I do wish the university had an A+. But it doesn't, unfortunately.</p>
-<p>Consult the latest Undergraduate or Graduate <a href="http://catalog.ucf.edu/" target="_blank" rel="noopener">catalog</a> for regulations and procedures regarding grading such as Incomplete grades, grade changes, and grade forgiveness.</p>
+<p>Students sometimes dislike the +/- system. I use it because I think there's a real difference between, say, an 89 and an 80 (or really a 79.5 rounded up). It doesn't seem fair that both should earn Bs.  <a href="http://catalog.ucf.edu/" target="_blank" rel="noopener">catalog</a> for regulations and procedures regarding grading such as Incomplete grades, grade changes, and grade forgiveness.</p>
 <h2 id="ID">Course Schedule</h2>
 <p>The Course Schedule can be found on Webcourses here: <a title="Schedule AMH 2010-21Spring 0W65" href="/courses/1371726/pages/schedule-amh-2010-21spring-0w65?wrap=1">Schedule AMH 2010-21Spring 0W65</a>
 </p>
@@ -211,19 +258,19 @@
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Orientation</p>
                 <p>&nbsp;</p>
-                <p>Unit 1: The Atlantic World: Exploration and Migration</p>
+                <p>Unit 1: Introduction to the Digital Humanities</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+                <p>Read: "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <h1 id="quiz_title">
-                    <span style="font-size: 12pt;">Academic Engagement Activity Syllabus Quiz</span>
+                    <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
-                <p>Discussion Post 1a or 1b (Early Submission)</p>
+                <p>Discussion Post 1: What are the digital humanities?</p>
+                <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
@@ -235,18 +282,18 @@
                 <p>Week 2</p>
             </td>
             <td style="height: 125px; width: 14.6033%;" valign="top">
-                <p>Unit 1: The Atlantic World: Exploration and Migration
+                <p>Unit 2: Tools and Methods of the Digital Humanities
                     <br /><strong>
                         <br />
                     </strong>
                 </p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Early Globalization The Atlantic World &amp; Creating New Social Orders</p>
+                <p>Read: "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 1a or 1b</p>
-                <p>Unit 1 Quiz</p>
+                <p>Discussion Post 2: Describing tools and methods of DH</p>
+                <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 125px; width: 2.10688%;" valign="top">
                 <p>1/24 at 11:59pm EST</p>
@@ -257,7 +304,7 @@
                 <p>Week 3</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 2: British North America and the Imperial Crisis</p>
+                <p>Unit 3: Title</p>
             </td>
             <td style="width: 12.2114%;">Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
@@ -273,7 +320,7 @@
                 <p>Week 4</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 2: British North America and the Imperial Crisis</p>
+                <p>Unit 4: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
@@ -291,7 +338,7 @@
                 <p>Week 5</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 3: The American Revolution and The New Republic</p>
+                <p>Unit 5: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
@@ -308,7 +355,7 @@
                 <p>Week 6</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 3: The American Revolution and The New Republic</p>
+                <p>Unit 6: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
@@ -326,7 +373,7 @@
                 <p>Week 7</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 4: The Age of Jackson &amp; Antebellum Reform</p>
+                <p>Unit 7: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
@@ -343,7 +390,7 @@
                 <p>Week 8</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 4: The Age of Jackson &amp; Antebellum Reform</p>
+                <p>Unit 8: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
@@ -361,13 +408,14 @@
                 <p>Week 9</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 5: The Antebellum North and South</p>
+                <p>Unit 9: You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+                <p>Read: Chp. 1: Directing the Documentary  
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 5a or 5b (Early Submission)</p>
+                <p>Discussion Post: Write your perspectives on society and digital media</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/14 at 11:59pm EST</p>
@@ -378,13 +426,14 @@
                 <p>Week 10</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 5: The Antebellum North and South</p>
+                <p>Unit 10: Documentaries and Film Language</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Industrial North &amp; Antebellum South</p>
+                <p>Read: Chp. 2: Directing the Documentary
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 5a or 5b</p>
+                <p>Discussion Post: Bring your digital media perspectives with accessable technologies</p>
                 <p>Unit 5 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
@@ -396,13 +445,14 @@
                 <p>Week 11</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 6: Westward Expansion &amp; the Crisis of the 1850s</p>
+                <p>Unit 11: Documentary Aesthetics</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+                <p>Read: Chp. 6: Directing the Documentary
+           </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>No Discussion Post, begin Final Exam Prep</p>
+                <p>Discussion Post: Express social perspectives you would like to offer to a digital media project</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -410,14 +460,15 @@
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 12</p>
+                <p>Unit 12: Production</p>
             </td>
-            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 6: Westward Expansion &amp; the Crisis of the 1850s</td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Westward Expansion &amp; The 1850s</p>
+                <p>Read Chp. 4: Directing the Documentary
+        </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Unit 6 Quiz</p>
+                <p>Digital Media Project: Digitally capture a natural moment from your day</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/4 at 11:59pm EST</p>
@@ -428,7 +479,7 @@
                 <p>Week 13</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 7: The American Civil War &amp; Reconstruction</p>
+                <p>Unit 13: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
@@ -462,7 +513,7 @@
                 <p>Week 15</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 7: The American Civil War &amp; Reconstruction&nbsp;</p>
+                <p>Unit 14: Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
@@ -548,7 +599,8 @@
                 <li>If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see <a class="offsite external" href="https://ehs.ucf.edu/automated-external-defibrillator-aed-locations" target="_blank" rel="noopener">https://ehs.ucf.edu/automated-external-defibrillator-aed-locations</a>.</li>
                 <li>To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to <a class="offsite external" href="https://my.ucf.edu/" target="_blank" rel="noopener">https://my.ucf.edu</a>&nbsp;and logging in. Click on &ldquo;Student Self Service&rdquo; located on the left side of the screen in the toolbar, scroll down to the blue &ldquo;Personal Information&rdquo; heading on the Student Center screen, click on &ldquo;UCF Alert&rdquo;, fill out the information, including e-mail address, cell phone number, and cell phone provider, click &ldquo;Apply&rdquo; to save the changes, and then click &ldquo;OK.&rdquo;</li>
                 <li>Students with special needs related to emergency situations should speak with their instructors outside of class.</li>
-                <li>To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video (<a class="offsite external youtubed  inline_disabled" href="https://youtu.be/NIKYajEx4pk" target="_blank" rel="noopener" data-preview-alt="You CAN Survive an Active Shooter">You CAN Survive an Active Shooter</a>).</li>
+                <li>To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video (<a class="offsite external youtubed  inline_disabled" href="https://youtu.be/NIKYajEx4pk" target="_blank" rel="noopener" data-preview-alt="You CAN Survive an Active Shooter">You CAN Survive an Active Shooter</a>).
+                </li>
             </ul>
         </div>
         <h3>
