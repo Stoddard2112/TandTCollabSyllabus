@@ -42,9 +42,8 @@ This course takes students beyond the technological aspects by bringing their vi
          <p><strong><em> 
                     <p>Privay in History </p>
                     <a>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</a>.
-                     <a> Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and    
-                      privacy." The Information Society 14.4 (1998): 275-284.</a>
-
+                     <a Shapiro, Stuart.Places and spaces: The historical interaction of technology, home, and    
+                                privacy. The Information Society 14.4 (1998): 275-284.</a>
 
                 </em></strong></p>
         <ul>
@@ -53,40 +52,29 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
       <li>(Weeks 6)
         <p><strong><em>
-                    <p> New Approaches to Information Privacy</p>.
-                    <a> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</a>.
-                     <a> Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</a>
+                    <New Approaches to Information Privacy</a>.
                 </em></strong></p>
         <ul>
-            
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-      <li>(Weeks 7)
+      <li>(Weeks 5-8)
         <p><strong><em>
-         <Privacy Risks and Threats </a>.
-                    <a> Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 
- 
-                       3.Article 8 </a>.
-                     <a> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego 
-                      Law Review, Vol. 44, p. 745, 2007.
-     </a>
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
         <ul>
-            
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-      <li>(Weeks 8)
+      <li>(Weeks 5-8)
         <p><strong><em>
-          <Anonymity and De-anonymization </a>.
-                    <a> Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2 (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</a>.
-                     <a> Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</a>
-
+                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
         <ul>
-                    
+            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
     </ul>
     </li>
-      <li>(Weeks 9=12)
+      <li>(Weeks 5-8)
         <p><strong><em>
                     <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
                 </em></strong></p>
