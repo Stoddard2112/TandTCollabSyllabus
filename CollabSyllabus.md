@@ -269,10 +269,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 125px;">
             <td style="height: 125px; width: 0.967118%;" valign="top">
-                <p>Week 2</p>
+                <p>Week 2 (Unit 1)</p>
             </td>
             <td style="height: 125px; width: 14.6033%;" valign="top">
-                <p>Unit 2: Tools and Methods of the Digital Humanities
+                <p>Tools and Methods of the Digital Humanities
                     <br /><strong>
                         <br />
                     </strong>
@@ -283,7 +283,6 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
                 <p>Discussion Post 2: Describing tools and methods of DH</p>
-                <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 125px; width: 2.10688%;" valign="top">
                 <p>1/24 at 11:59pm EST</p>
@@ -291,10 +290,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 113px;">
             <td style="height: 113px; width: 0.967118%;" valign="top">
-                <p>Week 3</p>
+                <p>Week 3 (Unit 1)</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 3: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
@@ -307,17 +306,17 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 113px;">
             <td style="height: 113px; width: 0.967118%;" valign="top">
-                <p>Week 4</p>
+                <p>Week 4 (Unit 1)</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Unit 4: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p>Discussion Post 2a or 2b</p>
-                <p>Unit 2 Quiz</p>
+                <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -325,10 +324,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 5</p>
+                <p>Week 5 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 5: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
@@ -342,17 +341,16 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 6</p>
+                <p>Week 6 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 6: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>America's Founding Documents Essay</p>
-                <p>Unit 3 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/21 at 11:59pm EST</p>
@@ -360,10 +358,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 7</p>
+                <p>Week 7 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 7: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
@@ -377,17 +375,17 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 8</p>
+                <p>Week 8 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 8: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post 4a or 4b</p>
-                <p>Unit 4 Quiz</p>
+                <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
@@ -395,10 +393,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 9</p>
+                <p>Week 9 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 9: You and Your Ideas</p>
+                <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read: Chp. 1: Directing the Documentary  
@@ -413,10 +411,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 10</p>
+                <p>Week 10 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 10: Documentaries and Film Language</p>
+                <p>Documentaries and Film Language</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read: Chp. 2: Directing the Documentary
@@ -424,7 +422,6 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Bring your digital media perspectives with accessable technologies</p>
-                <p>Unit 5 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/21 at 11:59pm EST</p>
@@ -432,7 +429,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 11</p>
+                <p>Week 11 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Unit 11: Documentary Aesthetics</p>
@@ -450,7 +447,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr> style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 12</p>
+                <p>Week 12 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Production</td>
             <td style="width: 12.2114%;">
@@ -459,6 +456,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Digital Media Project: Digitally capture a natural moment from your day</p>
+                <p>Unit 3 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/4 at 11:59pm EST</p>
@@ -466,10 +464,10 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 13</p>
+                <p>Week 13 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 13: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
@@ -483,7 +481,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 14</p>
+                <p>Week 14 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Spring Break,&nbsp; April 11-18</p>
@@ -500,17 +498,16 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 15</p>
+                <p>Week 15 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 14: Title</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post 7a or 7b</p>
-                <p>Unit 7 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
@@ -518,7 +515,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 16</p>
+                <p>Week 16 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Exam Week, 4/28 to 5/4</p>
