@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">DIG 3001 Spring 21</h1>
+<h1 style="text-align: center;">ENG 3001 Spring 21</h1>
 <h2 style="text-align: center;">Digital Media | Community Engagement & Social Change
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
@@ -18,7 +18,7 @@
 <ul>
     <li>Term: Spring, 2021</li>
     <li>Course Number &amp; Section: ENG 3001 Spring 0W65<strong></strong></li>
-    <li>Course Name: 3001 DIG Digital Media | Community Engagement & Social Change</li>
+    <li>Course Name: Digital Media | Community Engagement & Social Change</li>
     <li>Credit Hours: 3</li>
     <li>Course Modality: W</li>
 </ul>
