@@ -7,7 +7,6 @@
 <p style="text-align: center;">Instructors: Hajer Albalawi, David, James, and Javier Molinares</p>
 =======
 <p style="text-align: center;">Instructors: Hajer Albalawi, David Bailey, James, and Javier</p>
->>>>>>> bfb74f2348e6ccd41344747391a623e1a2ffdf9b
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor's&nbsp;Information&nbsp;</h2>
