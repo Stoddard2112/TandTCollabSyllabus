@@ -329,7 +329,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
@@ -346,7 +346,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
@@ -363,7 +363,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
@@ -380,7 +380,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
@@ -469,7 +469,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Civil War &amp; Reconstruction</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
@@ -503,7 +503,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Civil War &amp; Reconstruction</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post:</p>
