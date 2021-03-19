@@ -25,8 +25,8 @@
 <h2 id="CD">Course Description</h2>
 <p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. 
 This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact</p>
-<p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing. Additionally, this course will introduce students to how to approach topics as a historian.</p>
 <p> This course is an introduction to the privacy issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy. This course provides an interdisciplinary approach to conceptualize privacy through the development of technology. It also analyzes the legal, ethical, and social characteristics of violation and protection privacy.</p>
+<p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
