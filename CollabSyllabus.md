@@ -574,6 +574,14 @@ This course takes students beyond the technological aspects by bringing their vi
             <p>The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats upon request. Students with disabilities who need specific access in this course, such as accommodations, should contact the professor as soon as possible to discuss various access options. Students should also connect with <a href="http://sas.sdes.ucf.edu/" target="_blank" rel="noopener">Student Accessibility Services</a> (Ferrell Commons, 7F, Room 185, <a href="mailto:sas@ucf.edu">sas@ucf.edu</a>, phone (407) 823-2371). Through Student Accessibility Services, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential access and accommodations that might be reasonable.</p>
         </div>
         <h3>
+            <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false"> COVID-19 and Illness Notification</a>
+        </h3>
+        <div id="content-3" class="accordion-content" aria-hidden="true">
+            <p> Students who believe they may have a COVID-19 diagnosis should contact Health Services so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID- 19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is located here: (https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor before missing class.</p>
+                </li>
+            </ul>
+        </div>
+        <h3>
             <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false">Campus Safety Statement</a>
         </h3>
         <div id="content-3" class="accordion-content" aria-hidden="true">
