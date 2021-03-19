@@ -121,7 +121,6 @@ This course takes students beyond the technological aspects by bringing their vi
 <p>Submit all assignments through Webcourse's Assignment Page</p>
 <h2>Assignment Policies &amp; Procedures</h2>
 <h3>Discussions</h3>
-<p>As part of the course&rsquo;s GEP Foundation in <em>Communication</em>, students will be asked to participate in online discussions throughout the semester.</p>
 <p>Each unit will have a discussion post prompt. Generally, discussions are based on reading from the text, documentaries, and other online sources.</p>
 <p>The discussions will be due at the end of each unit and may be completed at any time during the unit.</p>
 <p>Discussion participation will be graded out of 7 points, variable according to quality. You can <strong>earn a bonus points by:</strong>.</p>
@@ -131,7 +130,7 @@ This course takes students beyond the technological aspects by bringing their vi
 <p>It is possible to receive a grade of 7.5 out of 7 for each discussion.</p>
 <p>For more information about discussion grading, see the <a title="Discussion Post Guide and Rubric" href="/courses/1362486/pages/discussion-post-guide-and-rubric">Discussion Post Guide and Rubric</a>.</p>
 <h3>Quizzes</h3>
-<p>As part of the course&rsquo;s commitment to the <em>Cultural Interactions </em>and <em>Interpretation and Evaluation </em>Foundations of the GEP, there will be quizzes throughout the semester, to be completed through Webcourses.</p>
+<p>To evaluate knowledge, there will be quizzes throughout the semester.  All quizzes will be completed through Webcourses.</p>
 <p>We have created the quiz questions with the understanding that you will have your course materials available to you. It&rsquo;s fine if you use them. <strong>But you may not: 1. Collaborate with others, in any fashion, to complete the quizzes or 2. Use any resources outside of our class (such as the internet).</strong></p>
 <p>Quizzes will cover material since the previous quiz; they are not cumulative. Questions may be drawn from lectures, textbook chapters, and/or other assigned readings/videos/documentaries.</p>
 <p>We will aim to have quizzes posted by Wednesday during the week they are assigned.</p>
