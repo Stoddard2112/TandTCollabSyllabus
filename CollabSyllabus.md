@@ -292,7 +292,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 3 (Unit 1)</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Elements of DH and Digital Media</p>
             </td>
             <td style="width: 12.2114%;">Read: Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
