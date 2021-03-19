@@ -260,7 +260,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
-                <p>Discussion Post 1: What are the digital humanities?</p>
+                <p>Discussion Post: What are the digital humanities?</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
@@ -282,7 +282,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Read: "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 2: Describing tools and methods of DH</p>
+                <p>Discussion Post: Describing tools and methods of DH</p>
             </td>
             <td style="height: 125px; width: 2.10688%;" valign="top">
                 <p>1/24 at 11:59pm EST</p>
@@ -297,7 +297,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="width: 12.2114%;">Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 2a or 2b (Early Submission)</p>
+                <p>Discussion Post:</p>
                 <p>&nbsp;</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
@@ -315,7 +315,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 2a or 2b</p>
+                <p>Discussion Post:</p>
                 <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
@@ -333,7 +333,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>America's Founding Documents Essay (Early Submission)</p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/14 at 11:59pm EST</p>
@@ -350,7 +350,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: America's War for Independence, Creating Republican Government, &amp; Growing Pains</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>America's Founding Documents Essay</p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/21 at 11:59pm EST</p>
@@ -367,7 +367,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 4a or 4b (Early Submission)</p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/28 at 11:59pm EST</p>
@@ -384,7 +384,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: Jacksonian Democracy &amp; Antebellum Idealism and Reform</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 4a or 4b</p>
+                <p>Discussion Post:</p>
                 <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
@@ -473,7 +473,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 7a or 7b (Early Submission)</p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/11 at 11:59pm EST</p>
@@ -484,13 +484,13 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 14 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Spring Break,&nbsp; April 11-18</p>
+                <p>Title</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>No reading assignment</p>
+                <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Enjoy Spring Break</p>
+                <p>Discussion Post<:/p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/18 at 11:59pm EST</p>
@@ -507,7 +507,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Textbook Chs: Civil War &amp; Reconstruction</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post 7a or 7b</p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
@@ -515,7 +515,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 16 (Unit 4)</p>
+                <p>Week 16 Final Exam</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Exam Week, 4/28 to 5/4</p>
