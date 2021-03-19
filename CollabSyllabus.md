@@ -35,8 +35,8 @@ This course takes students beyond the technological aspects by bringing their vi
                     <a>History of the Digital Hunanities and Digital Media.</a> 
                 </em></strong></p>
         <ul>
-            <li><i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</li>
-            <li><i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</li>
+            <li>Gardiner and Musto, <i>The Digital Humanities</i>.  (Availabeas e-book from UCF library.)</li>
+            <li>Gold and Klein (editors), <i>Debates in the Digital Humanities 2016</i>.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</li>
         </ul>
     </li>
     </ul>
