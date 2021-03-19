@@ -30,7 +30,6 @@ This course takes students beyond the technological aspects by bringing their vi
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
-</ui>
     <li>Unit 1 (Weeks 1-4)
         <p><strong><em>
                     <a>Privacy in History.</a> 
@@ -38,7 +37,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
             <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
-    </ul>
+        </ul>
     </li>
     </ul>
     </li>
