@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">DIG 3000 Spring 21</h1>
+<h1 style="text-align: center;">DIG 3001 Spring 21</h1>
 <h2 style="text-align: center;">Digital Media | Community Engagement & Social Change
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
