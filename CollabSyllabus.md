@@ -308,13 +308,13 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 4 (Unit 1)</p>
             </td>
             <td style="height: 113px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Environments of the Digital Age</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Textbook Chs: Rule Britannia &amp;&nbsp; Imperial Reforms and Colonial Protests</p>
+                <p>Read: Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Choose two Campus-Based Centers and compare their programs.</p>
                 <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
