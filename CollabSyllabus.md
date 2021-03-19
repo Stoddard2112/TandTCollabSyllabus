@@ -32,11 +32,11 @@ This course takes students beyond the technological aspects by bringing their vi
 <ul>
     <li>Unit 1 (Weeks 1-4)
         <p><strong><em>
-                    <a>Privacy in History.</a> 
+                    <a>History of the Digital Hunanities and Digital Media.</a> 
                 </em></strong></p>
         <ul>
-            <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
-            <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
+            <li><i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</li>
+            <li><i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</li>
         </ul>
     </li>
     </ul>
