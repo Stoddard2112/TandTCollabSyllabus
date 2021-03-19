@@ -94,10 +94,10 @@ This course takes students beyond the technological aspects by bringing their vi
 </ul>
 <h2>Student Learning Outcomes</h2>
 <ul>
-    <li>1: Students will demonstrate knowledge of the chronology and significance of major events and movements in American history.</li>
-    <li>2: Students will be able to gather, synthesize, and analyze information from appropriate resources and be able to critically evaluate information and sources for accuracy and credibility.</li>
+    <li>1: Students will demonstrate knowledge of the history and development of the digital humanities and digital media.</li>
+    <li>2: Students will be able to describe the tools and methods of digital media research and work.</li>
     <li>3: Students will identify common human themes and the richness of diverse cultures.</li>
-    <li>4: Students will learn the main key terms and concepts in digitalprivacy.</li>
+    <li>4: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>5: Students will define the role of the human factors in privacy in the information age.</li>
     <li>6: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
 </ul>
