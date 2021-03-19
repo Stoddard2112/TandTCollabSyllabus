@@ -49,7 +49,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
     </ul>
     </li>
-      <li>
         <p><strong><em>
                     <a>New Approaches to Information Privacy.</a> 
                 </em></strong></p>
