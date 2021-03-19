@@ -30,6 +30,7 @@ This course takes students beyond the technological aspects by bringing their vi
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
+</ui>
     <li>Unit 1 (Weeks 1-4)
         <p><strong><em>
                     <a>Privacy in History.</a> 
