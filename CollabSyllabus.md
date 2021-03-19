@@ -244,12 +244,12 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 1</p>
+                <p>Week 1 (Unit 1)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Orientation</p>
                 <p>&nbsp;</p>
-                <p>Unit 1: Introduction to the Digital Humanities</p>
+                <p>Introduction to the Digital Humanities</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
@@ -261,7 +261,6 @@ This course takes students beyond the technological aspects by bringing their vi
                 </h1>
                 <p>&nbsp;</p>
                 <p>Discussion Post 1: What are the digital humanities?</p>
-                <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
