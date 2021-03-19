@@ -453,9 +453,9 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr> style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Unit 12: Production</p>
+                <p>Week 12</p>
             </td>
-            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Title</td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Production</td>
             <td style="width: 12.2114%;">
                 <p>Read Chp. 4: Directing the Documentary
         </p>
