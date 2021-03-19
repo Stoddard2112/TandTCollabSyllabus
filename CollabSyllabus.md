@@ -450,8 +450,8 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
             </td>
-        </td>
-        <td style="height: 101px;">
+        </tr>
+        <tr> style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
                 <p>Unit 12: Production</p>
             </td>
