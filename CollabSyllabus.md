@@ -32,12 +32,13 @@ This course takes students beyond the technological aspects by bringing their vi
 <ul>
     <li>Unit 1 (Weeks 1-4)
         <p><strong><em>
-                    <a href="https://openstax.org/details/books/us-history">OpenStax U.S. History</a>.
+                    <a>Privacy in History.</a> 
                 </em></strong></p>
         <ul>
-            <li>The book is free and open source. There's nothing to buy. I will post chapter PDFs in Webcourses.</li>
-
-=======
+            <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
+            <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
+    </ul>
+    </li>
     </ul>
     </li>
     <li>Unit 2 (Weeks 5-8)
