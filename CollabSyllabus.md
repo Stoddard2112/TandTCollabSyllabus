@@ -490,7 +490,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Reading</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post<:/p>
+                <p>Discussion Post:</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/18 at 11:59pm EST</p>
