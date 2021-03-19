@@ -57,7 +57,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</li>
     </ul>
     </li>
-      <li>(Weeks 7)
         <p><strong><em>
                     <a>Privacy Risks and Threats; Algorithmic Privacy</a> 
                 </em></strong></p>
@@ -66,7 +65,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <li> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007.</li>
     </ul>
     </li>
-      <li>(Weeks 8)
         <p><strong><em>
                     <a>Anonymity and De-anonymization</a>.
                 </em></strong></p>
