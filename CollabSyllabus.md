@@ -370,7 +370,6 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Read: Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
                 <p>Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007
                 </p>
-
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Create an annotated bibliography a list of 5-7 works. 
