@@ -326,13 +326,14 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 5 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Web Course Discussion</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read:Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890</i> Shapiro, Stuart. "Places and spaces: The   
+                    historical interaction of technology, home, andprivacy." The Information Society 14.4 (1998): 275-284.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Write a post on Web course about the privacyfrom your interdisciplinary point of view.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/14 at 11:59pm EST</p>
