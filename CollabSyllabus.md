@@ -364,13 +364,17 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 7 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Annotated Bibliography</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read: Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
+                <p>Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007
+                </p>
+
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Create an annotated bibliography a list of 5-7 works. 
+                      It should be related to the chosen topic by the students.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/28 at 11:59pm EST</p>
