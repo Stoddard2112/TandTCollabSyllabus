@@ -345,13 +345,15 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 6 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Main Point Summary</p>                                                                    
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read: Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</p>
+                <p> Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and     
+                    Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: From this week reading write one page to summarize the main points in those reading,(at least two points)</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/21 at 11:59pm EST</p>
