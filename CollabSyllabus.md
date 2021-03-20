@@ -329,8 +329,9 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Web Course Discussion</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890</i> Shapiro, Stuart. "Places and spaces: The   
-                    historical interaction of technology, home, andprivacy." The Information Society 14.4 (1998): 275-284.</p>
+                <p>Read:Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890.</p>
+                    <p> Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, andprivacy." The Information Society 14.4 (1998): 275-
+                        284.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Write a post on Web course about the privacyfrom your interdisciplinary point of view.</p>
