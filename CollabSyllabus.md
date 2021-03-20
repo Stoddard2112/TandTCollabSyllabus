@@ -384,13 +384,18 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 8 (Unit 2)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Literature Review</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read: Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2   
+                    (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</p>
+                <p> Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society  
+                    16.7 (2014): 1051-1067.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Write a brief (6-7 pages, Times 12, double spaced) literature 
+                   review of relevant work. The literature review must include work 
+                    addressing privacy's issues, concerns, challenges, etc. </p> 
                 <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
