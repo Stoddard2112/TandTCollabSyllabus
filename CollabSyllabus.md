@@ -89,7 +89,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>You can buy this book in Amazon.com.</li>
     </ul>
->>>>>>> 6de887d6e716d39f5c59c22ef0ccc22ce84cae5d
+
     </li>
 </ul>
 <h2>Student Learning Outcomes</h2>
