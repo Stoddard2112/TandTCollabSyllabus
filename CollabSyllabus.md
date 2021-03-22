@@ -616,6 +616,21 @@ This course takes students beyond the technological aspects by bringing their vi
             <p>Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.</p>
         </div>
         <h3>
+            <a class="accordion-control" href="#" aria-controls="content-4" aria-expanded="false">TITLE IX</a>
+        </h3>
+        <div id="content-4" class="accordion-content" aria-hidden="true">
+            <p>The University of Central Florida does not tolerate sexual misconduct or interpersonal violence that occurs on or off campus and will take prompt and effective steps to:              </p>
+            <ul>
+              <li>End the behavior</li>
+              <li>Eliminate any existing hostile environment</li>
+              <li>Prevent incidents from recurring</li>
+              <li>Remedy the effects of such incidents<br>
+                <br>
+              </li>
+            </ul>
+			<p>Our detailed Title IX Policy, Procedure, and Resources can be found in Section 5.006(10) of the Golden Rule Student Handbook. A variety of services on campus, as well as local and national organizations, are available to assist you as you make informed decisions. Resources and support services include access to confidential advocacy and support, safety planning, interim protective measures, other accommodations, and counseling.</p>
+        </div>
+        <h3>
             <a class="accordion-control" href="#" aria-controls="content-5" aria-expanded="false">Copyright</a>
         </h3>
         <div id="content-5" class="accordion-content" aria-hidden="true">
