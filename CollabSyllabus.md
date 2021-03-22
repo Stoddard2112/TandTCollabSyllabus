@@ -410,7 +410,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read pp. 5-15: Chp. 1: You and Film Authorship (Directing the Documentary)  
+                <p>Read Chp. 1 pp. 5-15: You and Film Authorship (Directing the Documentary)  
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -428,7 +428,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Documentaries and Film Language</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read pp. 63-72: Chp. 4: Constructing Reality (Directing the Documentary)
+                <p>Read Chp. 4 pp. 63-72: Constructing Reality (Directing the Documentary)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -446,7 +446,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Unit 11: Documentary Aesthetics</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read pp. 95-104: Chp. 6: Developing Story Ideas (Directing the Documentary)
+                <p>Read Chp. 6 pp. 95-104: Developing Story Ideas (Directing the Documentary)
            </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -462,7 +462,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Production</td>
             <td style="width: 12.2114%;">
-                <p>Read pp. 73-91: Story Elements and Film Grammar Chp. 4: Directing the Documentary
+                <p>Read Chp. 5 pp. 73-91: Story Elements and Film Grammar (Directing the Documentary)
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
