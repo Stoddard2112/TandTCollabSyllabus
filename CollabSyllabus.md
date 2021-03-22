@@ -498,13 +498,13 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 14 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Jurisdiction and Contracts</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read:Read: Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Be ready to discuss and analyze legal cases in class.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/18 at 11:59pm EST</p>
@@ -515,13 +515,13 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 15 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>Copy Rights</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read: Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post: Speaker #2 will share experiences with class followed by discussion and a Q&A section.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
