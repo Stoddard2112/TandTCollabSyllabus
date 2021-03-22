@@ -462,7 +462,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Production</td>
             <td style="width: 12.2114%;">
-                <p>Read Chp. 4: Directing the Documentary
+                <p>Read pp. 73-91: Story Elements and Film Grammar Chp. 4: Directing the Documentary
         </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
