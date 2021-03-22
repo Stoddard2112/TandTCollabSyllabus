@@ -96,10 +96,9 @@ This course takes students beyond the technological aspects by bringing their vi
 <ul>
     <li>1: Students will demonstrate knowledge of the history and development of the digital humanities and digital media.</li>
     <li>2: Students will be able to describe the tools and methods of digital media research and work.</li>
-    <li>3: Students will identify common human themes and the richness of diverse cultures.</li>
-    <li>4: Students will learn the main key terms and concepts in digital privacy.</li>
-    <li>5: Students will define the role of the human factors in privacy in the information age.</li>
-    <li>6: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+    <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
+    <li>4: Students will define the role of the human factors in privacy in the information age.</li>
+    <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
@@ -443,7 +442,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 11 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Unit 11: Documentary Aesthetics</p>
+                <p>Documentary Aesthetics</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read Chp. 6 pp. 95-104: Developing Story Ideas (Directing the Documentary)
@@ -460,7 +459,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="height: 101px; width: 0.967118%;" valign="top">
                 <p>Week 12 (Unit 3)</p>
             </td>
-            <td style="height: 101px; width: 14.6033%;" valign="top">Unit 12: Production</td>
+            <td style="height: 101px; width: 14.6033%;" valign="top">Production</td>
             <td style="width: 12.2114%;">
                 <p>Read Chp. 5 pp. 73-91: Story Elements and Film Grammar (Directing the Documentary)
         </p>
@@ -522,6 +521,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
+                <p>Unit 4 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
