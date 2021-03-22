@@ -478,13 +478,16 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 13 (Unit 4)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Title</p>
+                <p>﻿What is the Internet? Who Regulates It?</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Reading</p>
+                <p>Read: ACLU v. Reno (CDA I District Ct. Facts Only) Page 1 - Noah v. AOL (E.D. Va.) Page 22 
+				-Determining the Geography of Internet-Connected Devices. Page 32<br>
+                 Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)
+</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:</p>
+                <p>Discussion Post:Speaker #1 will share experiences with class followed by discussion and a Q&A section.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/11 at 11:59pm EST</p>
