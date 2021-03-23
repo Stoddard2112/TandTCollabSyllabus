@@ -590,7 +590,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false"> In Case of Faculty Illness</a>
         </h3>
         </div>
-        In Case of Faculty Illness
         If the instructor falls ill during the semester, there may be changes to this course, including having a backup instructor take over the course. Please look for announcements or mail in Webcourses@UCF or Knights email for any alterations to this course.
             1.	Required Attendance: All faculty are required to document students’ academic activity by completing a very brief MANDATORY course attendance activity. This activity is posted as an assignment in Webcourses and is due the first Friday of the semester. Students who do not complete this assignment may experience a delay in financial aid disbursement.
             2.	Expectations of Professionalism: The foundation of professionalism is integrity – trust that you will do what you say and are expected to do, do it well, do it on time, and do it for the benefit of others. Accordingly, universities (and professors) should develop an environment where students learn to act in an honorable and trustworthy fashion and where the standards of academic integrity are taught, emphasized, and consistently enforced. We are all members of a filmmaking community of practice – it is critically important to respect this community. When we do our best for others, we earn the best from</li>
