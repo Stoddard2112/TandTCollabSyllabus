@@ -512,7 +512,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Jurisdiction and Contracts</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Read: Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
+                <p>Read:Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Be ready to discuss and analyze legal cases in class.</p>
