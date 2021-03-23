@@ -447,7 +447,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Week 11 (Unit 3)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
-                <p>Documentary Aesthetics</p>
+                <p>Pre-Production</p>
             </td>
             <td style="width: 12.2114%;">
                 <p>Read Chp. 6 pp. 95-104: Developing Story Ideas (Directing the Documentary)
