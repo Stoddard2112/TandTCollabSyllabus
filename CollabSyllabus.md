@@ -549,7 +549,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Study for the Final Exam</h4></p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Final Exam</p>
+                <p><h4>Final Exam</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>5/4 at 11:59pm EST</p>
