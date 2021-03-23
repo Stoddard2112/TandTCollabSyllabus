@@ -422,8 +422,8 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h3>Directing the Documentary</h3> Chp. 1 You and Film Authorship pp. 5-15:</p> 
-                <h3>The Filmmaker's Handbook</h3>Chp. 1 Telling a Story on Film pp. 1-17</p>
+                <p>Read: <h4>Directing the Documentary</h4> Chp. 1 You and Film Authorship pp. 5-15:</p> 
+                <h4>The Filmmaker's Handbook</h4>Chp. 1 Telling a Story on Film pp. 1-17</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Write your perspectives on society and digital media</p>
@@ -440,7 +440,8 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Documentaries and Film Language</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Directing the Documentary Chp. 4 Constructing Reality pp. 63-72:  and The Filmmaker's Handbook Chp. 3 Introduction to Digital Systems pp. 78-88</p>
+                <p>Read: <h4>Directing the Documentary</h4> Chp. 4 Constructing Reality pp. 63-72:</p>
+                <h4>The Filmmaker's Handbook</h4> Chp. 3 Introduction to Digital Systems pp. 78-88</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Bring your digital media perspectives with accessable technologies</p>
@@ -457,7 +458,8 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Pre-Production</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Directing the Documentary Chp. 6 Developing Story Ideas pp. 95-104  and The Filmmaker's Handbook Chp. 6 The Digital Image pp. 246-254</p>
+                <p>Read: <h4>Directing the Documentary</h4> Chp. 6 Developing Story Ideas pp. 95-104</p>
+                <h4>The Filmmaker's Handbook</h4> Chp. 6 The Digital Image pp. 246-254</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Express social perspectives you would like to offer to a digital media project</p>
@@ -472,7 +474,8 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Production</td>
             <td style="width: 12.2114%;">
-                <p>Read: Directing the Documentary Chp. 5 Story Elements and Film Grammar pp. 73-91 and The Filmmaker's Handbook Chp. 9 Shooting the Movie pp. 422-435</p>
+                <p>Read: <h4>Directing the Documentary</h4> Chp. 5 Story Elements and Film Grammar pp. 73-91</p> 
+                <h4>The Filmmaker's Handbook</h4> Chp. 9 Shooting the Movie pp. 422-435</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Digital Media Project: Digitally capture a natural moment from your day on your accessable digital media tool</p>
