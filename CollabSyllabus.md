@@ -307,7 +307,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="width: 12.2114%;">Read: Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Choose an element of DH and explain its digital aspects</p>
+                <p><h4>Discussion Post:</h4> Choose an element of DH and explain its digital aspects</p>
                 <p>&nbsp;</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
@@ -325,7 +325,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Read: Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Choose two Campus-Based Centers and compare their programs.</p>
+                <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
                 <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
@@ -345,7 +345,7 @@ This course takes students beyond the technological aspects by bringing their vi
                         284.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Write a post on Web course about the privacyfrom your interdisciplinary point of view.</p>
+		    <p><h4>Discussion Post:</h4> Write a post on Web course about the privacyfrom your interdisciplinary point of view.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/14 at 11:59pm EST</p>
@@ -364,7 +364,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: From this week reading write one page to summarize the main points in those reading,(at least two points)</p>
+                <p><h4>Discussion Post:</h4> From this week reading write one page to summarize the main points in those reading,(at least two points)</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>2/21 at 11:59pm EST</p>
@@ -383,7 +383,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Create an annotated bibliography a list of 5-7 works. 
+                <p><h4>Discussion Post:</h4> Create an annotated bibliography a list of 5-7 works. 
                       It should be related to the chosen topic by the students.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
@@ -404,7 +404,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     16.7 (2014): 1051-1067.</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Write a brief (6-7 pages, Times 12, double spaced) literature 
+                <p><h4>Discussion Post:</h4> Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
                 <p>Unit 2 Quiz</p>
