@@ -43,6 +43,8 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Gold and Klein (editors), <i>Debates in the Digital Humanities 2016</i>.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</li>
         </ul>
     </li>
+    </ul>
+    </li>
     <li><h3>Unit 2</h3> (Weeks 5-8)
         <p><strong><em>
                     <a>Privacy in History.</a> 
@@ -565,10 +567,10 @@ This course takes students beyond the technological aspects by bringing their vi
 <p>A list of non-academic support and services is also available at&nbsp;<a href="https://www.ucf.edu/services/" target="_blank" rel="noopener">UCF Student Services</a>. Click on&nbsp;"Support"&nbsp;on the right-hand side to filter.&nbsp;&nbsp;</p>
 <p>If you are a UCF Online student, please consult the&nbsp;<a href="https://www.ucf.edu/online/resources/guidelines/" target="_blank" rel="noopener">UCF Online Student Guidelines</a>&nbsp;for more information about your access to non-academic services.</p>
             <a class="accordion-control" href="#" aria-controls="content-1" aria-expanded="false">Remote Instruction Through Zoom:</a> <p>Because of the continued remote instruction requirement due to the COVID-19 pandemic, this course will use Zoom for some synchronous (“real-time”) class meetings. Meeting dates and times will be scheduled through Webcourses@UCF and should appear on your calendar. Please take the time to familiarize yourself with Zoom by visiting the UCF Zoom Guides at <https://cdl.ucf.edu/support/webcourses/zoom/>. You may choose to use Zoom on your mobile device (phone or tablet).hings to Know About Zoom:</p>
-<p>•	You must sign-in to the Zoom session using your UCF NID and password.</p>
-<p>•	Only lecture parts of the Zoom sessions will be recorded, not discussions.</p>
-<p>•	Improper classroom behavior is not tolerated within Zoom sessions and may result in a referral to the Office of Student Conduct.</p>
-<p>•	You can contact Webcourses@UCF Support at <https://cdl.ucf.edu/support/webcourses/> if you have any technical issues accessing Zoom.</p>
+<li>•	You must sign-in to the Zoom session using your UCF NID and password.</li>
+<li>•	Only lecture parts of the Zoom sessions will be recorded, not discussions.</li>
+<li>•	Improper classroom behavior is not tolerated within Zoom sessions and may result in a referral to the Office of Student Conduct.</li>
+<li>•	You can contact Webcourses@UCF Support at <https://cdl.ucf.edu/support/webcourses/> if you have any technical issues accessing Zoom.</li>
 <h3 id="PS">Policy Statements</h3>
 <div class="doc-container">
     <div class="ucf-accordion" aria-label="Accordion Control Group Buttons">
@@ -659,12 +661,12 @@ This course takes students beyond the technological aspects by bringing their vi
 			<p>Our detailed Title IX Policy, Procedure, and Resources can be found in Section 5.006(10) of the Golden Rule Student Handbook. A variety of services on campus, as well as local and national organizations, are available to assist you as you make informed decisions. Resources and support services include access to confidential advocacy and support, safety planning, interim protective measures, other accommodations, and counseling. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at www.shield.ucf.edu and http://cares.sdes.ucf.edu/.
             If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify the instructors as soon as possible and/or contact Student Accessibility Services. For more information on diversity and inclusion, Title IX, accessibility, or UCF’s complaint processes contact:</p>
             </ul>
-              <p> •	Title IX – OIE - http://oie.ucf.edu/ & askanadvocate@ucf.edu
-              <p> •	Disability Accommodation – Student Accessibility Services - http://sas.sdes.ucf.edu/ & sas@ucf.edu
-              <p> •	Diversity and Inclusion Training and Events – www.diversity.ucf.edu 
-              <p> •	Student Bias Grievances – Just Knights response team - http://jkrt.sdes.ucf.edu/
-              <p> •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu
-              <p> •	Ombuds Office - http://www.ombuds.ucf.edu</p>
+              <li> •	Title IX – OIE - http://oie.ucf.edu/ & askanadvocate@ucf.edu</li>
+              <li> •	Disability Accommodation – Student Accessibility Services - http://sas.sdes.ucf.edu/ & sas@ucf.edu</li>
+              <li> •	Diversity and Inclusion Training and Events – www.diversity.ucf.edu</li>
+              <li> •	Student Bias Grievances – Just Knights response team - http://jkrt.sdes.ucf.edu/</li>
+              <li> •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu
+              <li> •	Ombuds Office - http://www.ombuds.ucf.edu</li>
               </ul>
         </div>
         <h3>
