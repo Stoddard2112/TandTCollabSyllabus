@@ -4,10 +4,7 @@
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
 <p style="text-align: center;"><h4>Instructors:</h4> 
-<p>Hajer Albalawi</p> 
-<p>David Bailey M.B.A., M.F.A., Ph.D. (Current)</p>
-<p>James Stoddard</p> 
-<p>Javier Molinares</p>
+<p>Hajer Albalawi, David Bailey, James Stoddard, and Javier Molinares</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor's&nbsp;Information&nbsp;</h2>
