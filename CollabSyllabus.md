@@ -532,7 +532,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
-                <p>Unit 4 Quiz</p>
+                <p><h4>Unit 4 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
