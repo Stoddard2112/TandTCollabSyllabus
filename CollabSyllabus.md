@@ -649,7 +649,9 @@ This course takes students beyond the technological aspects by bringing their vi
             <a class="accordion-control" href="#" aria-controls="content-6" aria-expanded="false">Third-Party Software and FERPA</a>
         </h3>
         <div id="content-6" class="accordion-content" aria-hidden="true">
-            <p>During this course you might have the opportunity to use public online services and/or software applications sometimes called third-party software such as a blog or wiki. While some of these could be required assignments, you need not make any personally identifying information on a public site. Do not post or provide any private information about yourself or your classmates. Where appropriate you may use a pseudonym or nickname. Some written assignments posted publicly may require personal reflection/comments, but the assignments will not require you to disclose any personally identity-sensitive information. If you have any concerns about this, please contact your instructor.</p>
+            <p>During this course you might have the opportunity to use public online services and/or software applications sometimes called third-party software such as a blog or wiki. While some of these could be required assignments, you need not make any personally identifying information on a public site. Do not post or provide any private information about yourself or your classmates. Where appropriate you may use a pseudonym or nickname. Some written assignments posted publicly may require personal reflection/comments, but the assignments will not require you to disclose any personally identity-sensitive information. If you have any concerns about this, please contact your instructor. For technical support, go to https://cdl.ucf.edu/support/student/Links to an external site.
+
+</p>
         </div>
     </div>
 </div>
