@@ -358,7 +358,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Main Point Summary</p>                                                                    
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</p>
+                <p><h4>Read:</h4> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</p>
                 <p> Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and     
                     Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</p>
             </td>
@@ -377,7 +377,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Annotated Bibliography</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
+                <p><h4>Read:</h4> Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
                 <p>Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007
                 </p>
             </td>
@@ -397,7 +397,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Literature Review</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2   
+                <p><h4>Read:</h4> Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2   
                     (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</p>
                 <p> Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society  
                     16.7 (2014): 1051-1067.</p>
