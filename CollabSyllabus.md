@@ -639,14 +639,17 @@ This course takes students beyond the technological aspects by bringing their vi
             </ul>
 			<p>Our detailed Title IX Policy, Procedure, and Resources can be found in Section 5.006(10) of the Golden Rule Student Handbook. A variety of services on campus, as well as local and national organizations, are available to assist you as you make informed decisions. Resources and support services include access to confidential advocacy and support, safety planning, interim protective measures, other accommodations, and counseling.</p>
             <p>Title IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment, and retaliation. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at www.shield.ucf.edu and http://cares.sdes.ucf.edu/.
-            If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify the instructors as soon as possible and/or contact Student Accessibility Services.
-            For more information on diversity and inclusion, Title IX, accessibility, or UCF’s complaint processes contact:
-                •	Title IX – OIE - http://oie.ucf.edu/ & askanadvocate@ucf.edu
-                •	Disability Accommodation – Student Accessibility Services - http://sas.sdes.ucf.edu/ & sas@ucf.edu
-                •	Diversity and Inclusion Training and Events – www.diversity.ucf.edu
-                •	Student Bias Grievances – Just Knights response team - http://jkrt.sdes.ucf.edu/
-                •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu
-                •	Ombuds Office - http://www.ombuds.ucf.edu</p>
+            If there are aspects of the design, instruction, and/or experiences within this course that result in barriers to your inclusion or accurate assessment of achievement, please notify the instructors as soon as possible and/or contact Student Accessibility Services.</p>
+            <ul>
+            <p> For more information on diversity and inclusion, Title IX, accessibility, or UCF’s complaint processes contact:</p>
+            </ul>
+              <p> •	Title IX – OIE - http://oie.ucf.edu/ & askanadvocate@ucf.edu</p>
+              <p> •	Disability Accommodation – Student Accessibility Services - http://sas.sdes.ucf.edu/ & sas@ucf.edu</p>
+              <p> •	Diversity and Inclusion Training and Events – www.diversity.ucf.edu </p>
+              <p> •	Student Bias Grievances – Just Knights response team - http://jkrt.sdes.ucf.edu/</p>
+              <p> •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu</p>
+              <p> •	Ombuds Office - http://www.ombuds.ucf.edu</p>
+              </ul>
         </div>
         <h3>
             <a class="accordion-control" href="#" aria-controls="content-5" aria-expanded="false">Copyright</a>
