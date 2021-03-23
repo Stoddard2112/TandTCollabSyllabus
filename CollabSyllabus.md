@@ -644,8 +644,8 @@ This course takes students beyond the technological aspects by bringing their vi
               <p> •	Disability Accommodation – Student Accessibility Services - http://sas.sdes.ucf.edu/ & sas@ucf.edu
               <p> •	Diversity and Inclusion Training and Events – www.diversity.ucf.edu 
               <p> •	Student Bias Grievances – Just Knights response team - http://jkrt.sdes.ucf.edu/
-                  •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu
-                  •	Ombuds Office - http://www.ombuds.ucf.edu</p>
+              <p> •	UCF Compliance and Ethics Office - http://compliance.ucf.edu/ & complianceandethics@ucf.edu
+              <p> •	Ombuds Office - http://www.ombuds.ucf.edu</p>
               </ul>
         </div>
         <h3>
