@@ -619,10 +619,12 @@ This course takes students beyond the technological aspects by bringing their vi
             </ul>
         </div>
         <h3>
-            <a class="accordion-control" href="#" aria-controls="content-4" aria-expanded="false">Deployed Active Duty Military Students</a>
+            <a class="accordion-control" href="#" aria-controls="content-4" aria-expanded="false">Scheduling Issues</a>
         </h3>
         <div id="content-4" class="accordion-content" aria-hidden="true">
-            <p>Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.</p>
+               <p> • Make-Up Assignments for Authorized University Events or Co-curricular Activities: Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.</p>
+               <p>•	Religious Observances: Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the UCF policy at: https://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf</p>
+               <p> • Deployed Active-Duty Military Students: Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.</p>
         </div>
         <h3>
             <a class="accordion-control" href="#" aria-controls="content-4" aria-expanded="false">TITLE IX</a>
