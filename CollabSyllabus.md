@@ -3,7 +3,8 @@
 </h2>
 <p style="text-align: center;">Englsih Department, College of Arts and Humanities</p>
 <p style="text-align: center;">3 Credit Hours</p>
-<p style="text-align: center;">Instructors: Hajer Albalawi, David Bailey, James Stoddard, and Javier Molinares</p>
+<p style="text-align: center;">Instructors: Hajer Albalawi, David Bailey M.B.A., M.F.A., Ph.D. (Current), James Stoddard, and Javier Molinares</p>
+Hajer Albalawi, David Bailey M.B.A., M.F.A., Ph.D. (Current), James Stoddard, and Javier Molinares</p>
 <hr />
 <p>&nbsp;</p>
 <h2>Instructor's&nbsp;Information&nbsp;</h2>
@@ -23,9 +24,9 @@
     <li>Course Modality: W</li>
 </ul>
 <h2 id="CD">Course Description</h2>
-<p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. To help define a clear understanding of how accessable digital tools are able to guide identity within current pandemic challenges.
-This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact</p>
-<p> This course is an introduction to the privacy issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy. This course provides an interdisciplinary approach to conceptualize privacy through the development of technology. This course also analyzes the legal, ethical, and social characteristics of violation and protection privacy.It introduces legal issues that might affect community engagement and social change in digital media. Previous legal cases are used to illustrate different scenarios related to the use of digital media.</p>
+<p>Studying Digital Media with Community Engagement & Social Change involves more than just understanding technologies. It revolves around a story.  Documenting perspectives toward bestowing a strategy to foster a voice toward a socially accepted change opens up more profound audiences' acceptance. Learning how the world functions socially within an open digital society is essential. To help define a clear understanding of how accessible digital tools can guide identity within current pandemic challenges.
+This course takes students beyond the technological aspects by bringing their vision to their own choices. Students will enable the freedom to develop their perspectives within social change and study. These fundamentals and alternative models and theories will provide students with the context to critically adapt their methods to help build their story that creates a societal impact.</p>
+<p> This course is an introduction to the privacy issues in the digital domain. Throughout, we examine how various technologies have influenced the nature of human privacy. This course provides an interdisciplinary approach to conceptualize privacy through the development of technology. This course also analyzes the legal, ethical, and social characteristics of violation and protection of privacy. It introduces legal issues that might affect community engagement and social change in digital media. Previous legal cases are used to illustrate different scenarios related to the use of digital media.</p>
 <p>This course is intended to improve students&rsquo; skills in areas including: reading comprehension, information synthesis, critical thinking, and analytical writing.</p>
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
