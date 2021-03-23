@@ -151,6 +151,8 @@ This course takes students beyond the technological aspects by bringing their vi
 </p>
 <h3>Communication</h3>
 <p>It should be easy to get in touch with us either via email or the Webcourses mail tool. We check email regularly and can promise a prompt but not instantaneous response. If you do not receive a response in a couple days, a kind reminder would be appreciated.</p>
+<h3>Attendance and Participation (A&P):</p>
+<p>Virtual attendance for this course is required and will be graded after each class. You should commit to full attendance in this program. Absences will be addressed on a per-case basis; however, after two absences, you will be dropped from the program. Late arrivals or early departures from class will count as a half absence. Additionally, you are responsible for completing the required discussions, readings, and assignments in advance of the designated class meeting.</p>
 <h2 id="AGP">Grading Scale</h2>
 <p>The course will use plus/minus grades according to the scale below.</p>
 <table>
