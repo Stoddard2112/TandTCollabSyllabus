@@ -328,7 +328,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
-                <p>Unit 1 Quiz</p>
+                <p><h4>Unit 1 Quiz</h4></p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -409,7 +409,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Discussion Post:</h4> Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
-                <p>Unit 2 Quiz</p>
+                <p><h4>Unit 2 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
