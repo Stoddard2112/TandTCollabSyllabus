@@ -266,7 +266,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-                <p>Read: "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
+                <p><h4>Read:</h4> "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                     <span>Academic Engagement Activity Syllabus Quiz</span>
@@ -291,7 +291,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 </p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
+                <p><h4>Read:</h4> "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Describing tools and methods of DH</p>
@@ -324,7 +324,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Environments of the Digital Age</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
+                <p><h4>Read:</h4> Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
@@ -342,7 +342,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Web Course Discussion</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890.</p>
+                <p><h4>Read:</h4>Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890.</p>
                     <p> Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, andprivacy." The Information Society 14.4 (1998): 275-
                         284.</p>
             </td>
