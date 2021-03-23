@@ -109,6 +109,7 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>4: Students will define the role of the human factors in privacy in the information age.</li>
     <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+    <li>6: Students will learn how to analyze legal digital media and Internet court cases.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
