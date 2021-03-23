@@ -528,7 +528,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Copy Rights</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
+                <p><h4>Read:</h4> Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
