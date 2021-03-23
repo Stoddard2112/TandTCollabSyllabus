@@ -44,7 +44,6 @@ This course takes students beyond the technological aspects by bringing their vi
         </ul>
     </li>
     </ul>
-    </li>
     <li><h3>Unit 2</h3> (Weeks 5-8)
         <p><strong><em>
                     <a>Privacy in History.</a> 
