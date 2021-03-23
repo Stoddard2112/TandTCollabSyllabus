@@ -105,12 +105,9 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>2: Students will be able to describe the tools and methods of digital media research and work to guide their own perspectives.</li>
     <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>4: Students will define the role of the human factors in privacy in the information age.</li>
-<<<<<<< HEAD
-    <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
-=======
-    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
-
-    <li>6: Students will learn how to analyze legal digital media and Internet court cases.</li> 
+    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+    <li>6: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
+    <li>7: Students will learn how to analyze legal digital media and Internet court cases.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
@@ -328,7 +325,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
-                <p>Unit 1 Quiz</p>
+                <p><h4>Unit 1 Quiz</h4></p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -409,7 +406,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Discussion Post:</h4> Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
-                <p>Unit 2 Quiz</p>
+                <p><h4>Unit 2 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
@@ -427,7 +424,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4>Chp. 1: Telling a Story on Film (pp. 1-17)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4>Write your perspectives on society and digital media</p>
+                <p><h4>Discussion Post:</h4>Write your perspectives on society and digital media.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/14 at 11:59pm EST</p>
@@ -445,7 +442,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 3: Introduction to Digital Systems (pp. 78-88)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4>Bring your digital media perspectives with accessable technologies</p>
+                <p><h4>Discussion Post:</h4>Bring your digital media perspectives with accessable technologies.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/21 at 11:59pm EST</p>
@@ -463,7 +460,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 6: The Digital Image (pp. 246-254)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4> Express social perspectives you would like to offer to a digital media project</p>
+                <p><h4>Discussion Post:</h4> Express social perspectives you would like to offer to a digital media project.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -479,7 +476,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 9: Shooting the Movie (pp. 422-435)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h3>Digital Media Project:</h3> Digitally capture a natural moment from your day on your accessable digital media tool</p>
+                <p><h3>Digital Media Project:</h3> Digitally capture a natural moment from your day on your accessable digital media tool.</p>
                 <p><h4>Unit 3 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
