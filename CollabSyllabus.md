@@ -423,7 +423,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4>Chp. 1: Telling a Story on Film (pp. 1-17)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4>Write your perspectives on society and digital media</p>
+                <p><h4>Discussion Post:</h4>Write your perspectives on society and digital media.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/14 at 11:59pm EST</p>
@@ -441,7 +441,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 3: Introduction to Digital Systems (pp. 78-88)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4>Bring your digital media perspectives with accessable technologies</p>
+                <p><h4>Discussion Post:</h4>Bring your digital media perspectives with accessable technologies.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/21 at 11:59pm EST</p>
@@ -459,7 +459,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 6: The Digital Image (pp. 246-254)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h4>Discussion Post:</h4> Express social perspectives you would like to offer to a digital media project</p>
+                <p><h4>Discussion Post:</h4> Express social perspectives you would like to offer to a digital media project.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/28 at 11:59pm EST</p>
@@ -475,7 +475,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <h4>The Filmmaker's Handbook</h4> Chp. 9: Shooting the Movie (pp. 422-435)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p><h3>Digital Media Project:</h3> Digitally capture a natural moment from your day on your accessable digital media tool</p>
+                <p><h3>Digital Media Project:</h3> Digitally capture a natural moment from your day on your accessable digital media tool.</p>
                 <p><h4>Unit 3 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
