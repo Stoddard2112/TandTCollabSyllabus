@@ -304,7 +304,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="height: 113px; width: 14.6033%;" valign="top">
                 <p>Elements of DH and Digital Media</p>
             </td>
-            <td style="width: 12.2114%;">Read: Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
+            <td style="width: 12.2114%;"><h4>Read:</h4> Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose an element of DH and explain its digital aspects</p>
                 <p>&nbsp;</p>
@@ -420,7 +420,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 1: You and Film Authorship (pp. 5-15)</p> 
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 1: You and Film Authorship (pp. 5-15)</p> 
                 <h4>The Filmmaker's Handbook</h4>Chp. 1: Telling a Story on Film (pp. 1-17)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -438,7 +438,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Documenting Digitally</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 4: Constructing Reality (pp. 63-72)</p>
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 4: Constructing Reality (pp. 63-72)</p>
                 <h4>The Filmmaker's Handbook</h4> Chp. 3: Introduction to Digital Systems (pp. 78-88)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -456,7 +456,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Pre-Production</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 6: Developing Story Ideas (pp. 95-104)</p>
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 6: Developing Story Ideas (pp. 95-104)</p>
                 <h4>The Filmmaker's Handbook</h4> Chp. 6: The Digital Image (pp. 246-254)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -472,7 +472,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Production</td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 5: Story Elements and Film Grammar (pp. 73-91)</p> 
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 5: Story Elements and Film Grammar (pp. 73-91)</p> 
                 <h4>The Filmmaker's Handbook</h4> Chp. 9: Shooting the Movie (pp. 422-435)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -491,7 +491,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>﻿What is the Internet? Who Regulates It?</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: ACLU v. Reno (CDA I District Ct. Facts Only) Page 1 - Noah v. AOL (E.D. Va.) Page 22 
+                <p><h4>Read:</h4> ACLU v. Reno (CDA I District Ct. Facts Only) Page 1 - Noah v. AOL (E.D. Va.) Page 22 
 				-Determining the Geography of Internet-Connected Devices. Page 32<br>
                  Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)
 </p>
@@ -511,7 +511,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Jurisdiction and Contracts</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
+                <p><h4>Read:</h4>Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Be ready to discuss and analyze legal cases in class.</p>
