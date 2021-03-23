@@ -108,7 +108,11 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>2: Students will be able to describe the tools and methods of digital media research and work to guide their own perspectives.</li>
     <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>4: Students will define the role of the human factors in privacy in the information age.</li>
+<<<<<<< HEAD
     <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+=======
+    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
+
     <li>6: Students will learn how to analyze legal digital media and Internet court cases.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
@@ -548,7 +552,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Exam Week, 4/28 to 5/4</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Study for the Final Exam</p>
+                <p><h4>Study for the Final Exam</h4></p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Final Exam</p>
