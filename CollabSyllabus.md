@@ -43,7 +43,6 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Gold and Klein (editors), <i>Debates in the Digital Humanities 2016</i>.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</li>
         </ul>
     </li>
-    </ul>
     <li><h3>Unit 2</h3> (Weeks 5-8)
         <p><strong><em>
                     <a>Privacy in History.</a> 
