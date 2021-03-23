@@ -105,7 +105,8 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>2: Students will be able to describe the tools and methods of digital media research and work to guide their own perspectives.</li>
     <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>4: Students will define the role of the human factors in privacy in the information age.</li>
-    <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
+    <li>6: Students will learn how to analyze legal digital media and Internet court cases.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
@@ -267,7 +268,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     <span>Academic Engagement Activity Syllabus Quiz</span>
                 </h1>
                 <p>&nbsp;</p>
-                <p>Discussion Post: What are the digital humanities?</p>
+                <p><h4>Discussion Post:</h4> What are the digital humanities?</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>1/15 at 11:59pm EST</p>
@@ -289,7 +290,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Read: "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Describing tools and methods of DH</p>
+                <p><h4>Discussion Post:</h4> Describing tools and methods of DH</p>
             </td>
             <td style="height: 125px; width: 2.10688%;" valign="top">
                 <p>1/24 at 11:59pm EST</p>
@@ -323,7 +324,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
-                <p><h4>Unit 1 Quiz</h4></p>
+                <p>Unit 1 Quiz</p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -404,7 +405,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Discussion Post:</h4> Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
-                <p><h4>Unit 2 Quiz</h4></p>
+                <p>Unit 2 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
@@ -495,7 +496,7 @@ This course takes students beyond the technological aspects by bringing their vi
 </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post:Speaker #1 will share experiences with class followed by discussion and a Q&A section.</p>
+                <p><h4>Discussion Post:</h4>Speaker #1 will share experiences with class followed by discussion and a Q&A section.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/11 at 11:59pm EST</p>
@@ -509,10 +510,10 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Jurisdiction and Contracts</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Read: Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
+                <p>Read:Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Be ready to discuss and analyze legal cases in class.</p>
+                <p><h4>Discussion Post:</h4> Be ready to discuss and analyze legal cases in class.</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/18 at 11:59pm EST</p>
@@ -529,8 +530,8 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Read: Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Discussion Post: Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
-                <p><h4>Unit 4 Quiz</h4></p>
+                <p><h4>Discussion Post:</h4> Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
+                <p>Unit 4 Quiz</p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
@@ -538,7 +539,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p><h3>Week 16 Final Exam<h3></p>
+                <p>Week 16 Final Exam</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Exam Week, 4/28 to 5/4</p>
