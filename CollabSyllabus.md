@@ -587,6 +587,14 @@ This course takes students beyond the technological aspects by bringing their vi
             <p> Students who believe they may have a COVID-19 diagnosis should contact Health Services so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID- 19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is located here: (https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor before missing class.</p>
                 </li>
             </ul>
+            <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false"> In Case of Faculty Illness</a>
+        </h3>
+        </div>
+        In Case of Faculty Illness
+        If the instructor falls ill during the semester, there may be changes to this course, including having a backup instructor take over the course. Please look for announcements or mail in Webcourses@UCF or Knights email for any alterations to this course.
+            1.	Required Attendance: All faculty are required to document students’ academic activity by completing a very brief MANDATORY course attendance activity. This activity is posted as an assignment in Webcourses and is due the first Friday of the semester. Students who do not complete this assignment may experience a delay in financial aid disbursement.
+            2.	Expectations of Professionalism: The foundation of professionalism is integrity – trust that you will do what you say and are expected to do, do it well, do it on time, and do it for the benefit of others. Accordingly, universities (and professors) should develop an environment where students learn to act in an honorable and trustworthy fashion and where the standards of academic integrity are taught, emphasized, and consistently enforced. We are all members of a filmmaking community of practice – it is critically important to respect this community. When we do our best for others, we earn the best from</li>
+            </ul>
         </div>
         <h3>
             <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false">Campus Safety Statement</a>
