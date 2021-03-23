@@ -479,7 +479,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h3>Digital Media Project:</h3> Digitally capture a natural moment from your day on your accessable digital media tool</p>
-                <p>Unit 3 Quiz</p>
+                <p><h4>Unit 3 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/4 at 11:59pm EST</p>
