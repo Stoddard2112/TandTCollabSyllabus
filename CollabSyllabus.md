@@ -34,7 +34,7 @@ This course takes students beyond the technological aspects by bringing their vi
 <h2 id="CMR">Course Materials and Resources</h2>
 <h3>Required Materials/Resources</h3>
 <ul>
-    <li>Unit 1 (Weeks 1-4)
+    <li><h3>Unit 1</h3> (Weeks 1-4)
         <p><strong><em>
                     <a>History of the Digital Hunanities and Digital Media.</a> 
                 </em></strong></p>
@@ -45,7 +45,7 @@ This course takes students beyond the technological aspects by bringing their vi
     </li>
     </ul>
     </li>
-    <li>Unit 2 (Weeks 5-8)
+    <li><h3>Unit 2</h3> (Weeks 5-8)
         <p><strong><em>
                     <a>Privacy in History.</a> 
                 </em></strong></p>
@@ -78,7 +78,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
     </ul>
     </li>
-    <li>Unit 3 (Weeks 9-12)
+    <li><h3>Unit 3</h3> (Weeks 9-12)
         <p><strong><em>
                     <a href="https://www.amazon.com/Directing-Documentary-Michael-Rabiger/dp/0367235579/ref=cm_cr_arp_d_product_top?ie=UTF8">Directing the Documentary</a>.
                 </em></strong></p>
@@ -93,7 +93,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <li>The authoritative guide to producing, directing, shooting, editing, and distributing your story digitally. (Kindle Version) </li>
     </ul>
     </li>
-    <li>Unit 4 (Weeks 13-16)
+    <li><h3>Unit 4</h3> (Weeks 13-16)
         <p><strong><em>
                     <a href="https://www.amazon.com/Internet-Law-Cases-Materials-2019-ebook/dp/B07VT9FXLV/ref=sr_1_1?dchild=1&keywords=Goldman%2C+Eric.+Internet+Law%3A+Cases+%26+Materials+%282019+Edition%29&qid=1616019855&sr=8-1">Internet Law: Cases & Materials</a>.
                 </em></strong></p>
