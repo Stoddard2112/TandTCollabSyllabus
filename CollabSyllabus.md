@@ -254,7 +254,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 1 (Unit 1)</p>
+                <p>Week 1 <br>(Unit 1)</p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Orientation</p>
