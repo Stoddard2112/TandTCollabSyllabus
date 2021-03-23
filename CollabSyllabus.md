@@ -554,7 +554,6 @@ This course takes students beyond the technological aspects by bringing their vi
 <p>If you are a UCF Online student, please consult the&nbsp;<a href="https://www.ucf.edu/online/resources/guidelines/" target="_blank" rel="noopener">UCF Online Student Guidelines</a>&nbsp;for more information about your access to non-academic services.</p>
 h3>
             <a class="accordion-control" href="#" aria-controls="content-1" aria-expanded="false">Remote Instruction Through Zoom</a>
-        </h3>
 <p>Because of the continued remote instruction requirement due to the COVID-19 pandemic, this course will use Zoom for some synchronous (“real-time”) class meetings. Meeting dates and times will be scheduled through Webcourses@UCF and should appear on your calendar. Please take the time to familiarize yourself with Zoom by visiting the UCF Zoom Guides at <https://cdl.ucf.edu/support/webcourses/zoom/>. You may choose to use Zoom on your mobile device (phone or tablet).hings to Know About Zoom:</p>
 <p>•	You must sign-in to the Zoom session using your UCF NID and password.</p>
 <p>•	Only lecture parts of the Zoom sessions will be recorded, not discussions.</p>
