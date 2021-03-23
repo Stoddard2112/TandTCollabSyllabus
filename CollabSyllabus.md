@@ -90,7 +90,7 @@ This course takes students beyond the technological aspects by bringing their vi
                     <a href="https://www.amazon.com/Filmmakers-Handbook-Comprehensive-Guide-Digital-ebook/dp/B008JHXQYS">The Filmmaker's Handbook: A Comprehensive Guide for the Digital Age</a>.
                 </em></strong></p>
         <ul>
-            <li>The authoritative guide to producing, directing, shooting, editing, and distributing your video or film. (Kindle Version) </li>
+            <li>The authoritative guide to producing, directing, shooting, editing, and distributing your story digitally. (Kindle Version) </li>
     </ul>
     </li>
     <li>Unit 4 (Weeks 13-16)
