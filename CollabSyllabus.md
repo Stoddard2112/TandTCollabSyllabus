@@ -326,7 +326,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Choose two Campus-Based Centers and compare their programs.</p>
-                <p>Unit 1 Quiz</p>
+                <p><h4>Unit 1 Quiz</h4></p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -407,7 +407,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Discussion Post: Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
-                <p>Unit 2 Quiz</p>
+                <p><h4>Unit 2 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
@@ -533,7 +533,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
-                <p>Unit 4 Quiz</p>
+                <p><h4>Unit 4 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
@@ -541,7 +541,7 @@ This course takes students beyond the technological aspects by bringing their vi
         </tr>
         <tr style="height: 101px;">
             <td style="height: 101px; width: 0.967118%;" valign="top">
-                <p>Week 16 Final Exam</p>
+                <p><h3>Week 16 Final Exam<h3></p>
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">
                 <p>Exam Week, 4/28 to 5/4</p>
