@@ -422,7 +422,8 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h3>Directing the Documentary</h3> Chp. 1 You and Film Authorship pp. 5-15:  and The Filmmaker's Handbook Chp. 1 Telling a Story on Film pp. 1-17</p>
+                <p>Read: <h3>Directing the Documentary</h3> Chp. 1 You and Film Authorship pp. 5-15:</p> 
+                <h3>The Filmmaker's Handbook</h3>Chp. 1 Telling a Story on Film pp. 1-17</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p>Discussion Post: Write your perspectives on society and digital media</p>
