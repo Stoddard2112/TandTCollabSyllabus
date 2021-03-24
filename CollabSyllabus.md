@@ -106,12 +106,9 @@ This course takes students beyond the technological aspects by bringing their vi
     <li>2: Students will be able to describe the tools and methods of digital media research and work to guide their own perspectives.</li>
     <li>3: Students will learn the main key terms and concepts in digital privacy.</li>
     <li>4: Students will define the role of the human factors in privacy in the information age.</li>
-<<<<<<< HEAD
-    <li>5: Studnets will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
-=======
-    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
-
-    <li>6: Students will learn how to analyze legal digital media and Internet court cases.</li> 
+    <li>5: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li> 
+    <li>6: Students will develop a practical and conceptual framework from the interdisciplinary perspectives.</li>
+    <li>7: Students will learn how to analyze legal digital media and Internet court cases.</li> 
 </ul>
 <h2 id="CA">Course Activities</h2>
 <ul>
@@ -267,7 +264,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="width: 12.2114%;">
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
-                <p>Read: "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
+                <p><h4>Read:</h4> "Introduction to the Digital Humanities" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                     <span>Academic Engagement Activity Syllabus Quiz</span>
@@ -292,7 +289,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 </p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
+                <p><h4>Read:</h4> "Blunt Instrumentalism: On Tools and Methods" by Dennis Tenen in <i>Debates in the Digital Humanities 2016</i> edited by Gold and Klein.  Available for free here: https://dhdebates.gc.cuny.edu/read/untitled/section/09605ba7-ca68-473d-b5a4-c58528f42619#ch09</p>
             </td>
             <td style="height: 125px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Describing tools and methods of DH</p>
@@ -308,7 +305,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <td style="height: 113px; width: 14.6033%;" valign="top">
                 <p>Elements of DH and Digital Media</p>
             </td>
-            <td style="width: 12.2114%;">Read: Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
+            <td style="width: 12.2114%;"><h4>Read:</h4> Chapter 4, "The Elements of Digital Humanities: Object, Artifacr, Image, Sound, Space" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose an element of DH and explain its digital aspects</p>
                 <p>&nbsp;</p>
@@ -325,11 +322,11 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Environments of the Digital Age</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
+                <p><h4>Read:</h4> Chapter 6, "Digital Environments" in <i>The Digital Humanities</i> by Gardiner and Musto.  (Availabeas e-book from UCF library.)</p>
             </td>
             <td style="height: 113px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Choose two Campus-Based Centers and compare their programs.</p>
-                <p>Unit 1 Quiz</p>
+                <p><h4>Unit 1 Quiz</h4></p>
             </td>
             <td style="height: 113px; width: 2.10688%;" valign="top">
                 <p>2/7 at 11:59pm EST</p>
@@ -343,7 +340,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Web Course Discussion</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890.</p>
+                <p><h4>Read:</h4>Brandeis and Warren, The Right to Privacy. Harvard Law Review,1890.</p>
                     <p> Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, andprivacy." The Information Society 14.4 (1998): 275-
                         284.</p>
             </td>
@@ -362,7 +359,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Main Point Summary</p>                                                                    
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</p>
+                <p><h4>Read:</h4> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</p>
                 <p> Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and     
                     Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</p>
             </td>
@@ -381,7 +378,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Annotated Bibliography</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
+                <p><h4>Read:</h4> Calo, M. Ryan (2011) "The Boundaries of Privacy Harm," Indiana Law Journal: Vol. 86 :Iss. 3.Article 8</p>
                 <p>Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007
                 </p>
             </td>
@@ -401,7 +398,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Literature Review</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2   
+                <p><h4>Read:</h4> Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2   
                     (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</p>
                 <p> Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society  
                     16.7 (2014): 1051-1067.</p>
@@ -410,7 +407,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Discussion Post:</h4> Write a brief (6-7 pages, Times 12, double spaced) literature 
                    review of relevant work. The literature review must include work 
                     addressing privacy's issues, concerns, challenges, etc. </p> 
-                <p>Unit 2 Quiz</p>
+                <p><h4>Unit 2 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>3/7 at 11:59pm EST</p>
@@ -424,7 +421,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>You and Your Ideas</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 1: You and Film Authorship (pp. 5-15)</p> 
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 1: You and Film Authorship (pp. 5-15)</p> 
                 <h4>The Filmmaker's Handbook</h4>Chp. 1: Telling a Story on Film (pp. 1-17)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -442,7 +439,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Documenting Digitally</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 4: Constructing Reality (pp. 63-72)</p>
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 4: Constructing Reality (pp. 63-72)</p>
                 <h4>The Filmmaker's Handbook</h4> Chp. 3: Introduction to Digital Systems (pp. 78-88)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -460,7 +457,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Pre-Production</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 6: Developing Story Ideas (pp. 95-104)</p>
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 6: Developing Story Ideas (pp. 95-104)</p>
                 <h4>The Filmmaker's Handbook</h4> Chp. 6: The Digital Image (pp. 246-254)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -476,7 +473,7 @@ This course takes students beyond the technological aspects by bringing their vi
             </td>
             <td style="height: 101px; width: 14.6033%;" valign="top">Production</td>
             <td style="width: 12.2114%;">
-                <p>Read: <h4>Directing the Documentary</h4> Chp. 5: Story Elements and Film Grammar (pp. 73-91)</p> 
+                <p><h4>Read:</h4> <h4>Directing the Documentary</h4> Chp. 5: Story Elements and Film Grammar (pp. 73-91)</p> 
                 <h4>The Filmmaker's Handbook</h4> Chp. 9: Shooting the Movie (pp. 422-435)</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
@@ -495,7 +492,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>﻿What is the Internet? Who Regulates It?</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: ACLU v. Reno (CDA I District Ct. Facts Only) Page 1 - Noah v. AOL (E.D. Va.) Page 22 
+                <p><h4>Read:</h4> ACLU v. Reno (CDA I District Ct. Facts Only) Page 1 - Noah v. AOL (E.D. Va.) Page 22 
 				-Determining the Geography of Internet-Connected Devices. Page 32<br>
                  Goldman, Eric. Internet Law: Cases & Materials (2019 Edition)
 </p>
@@ -515,7 +512,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Jurisdiction and Contracts</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read:Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
+                <p><h4>Read:</h4>Protocol for Evaluating Personal Jurisdiction Page 41 - Toys ‘R’ Us v. Step Two (3d Cir.) Page 42 - Illinois v. Hemi Group (7th Cir.) Page 53 - Meyer v. Uber (2d Cir.) Page 58 - Register.com v. Verio (2d Cir.) Page 80 - Harris v. Blockbuster Page 90  </p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Be ready to discuss and analyze legal cases in class.</p>
@@ -532,11 +529,11 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p>Copy Rights</p>
             </td>
             <td style="width: 12.2114%;">
-                <p>Read: Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
+                <p><h4>Read:</h4> Copyright Basics (Copyright Office Circular 1) Page 130 - Note About Fair Use Page 134 - Cartoon Network v. CSC (2d Cir.) Page 138 - MGM Studios v. Grokster (Sup. Ct.) Page 150 - Secondary Liability Review: 17 U.S.C. §512 [<a href="http://www.copyright.gov/title17/92chap5.html#512">http://www.copyright.gov/title17/92chap5.html#512</a>] Goldman’s 512(c) Cheat Sheet Page 163</p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
                 <p><h4>Discussion Post:</h4> Speaker #2 will share experiences with class followed by discussion and a Q&A section.Additionaly, students will discuss assigned readings.</p>
-                <p>Unit 4 Quiz</p>
+                <p><h4>Unit 4 Quiz</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>4/25 at 11:59pm EST</p>
@@ -553,7 +550,7 @@ This course takes students beyond the technological aspects by bringing their vi
                 <p><h4>Study for the Final Exam</h4></p>
             </td>
             <td style="height: 101px; width: 20.1644%;" valign="top">
-                <p>Final Exam</p>
+                <p><h4>Final Exam</h4></p>
             </td>
             <td style="height: 101px; width: 2.10688%;" valign="top">
                 <p>5/4 at 11:59pm EST</p>
@@ -568,7 +565,7 @@ This course takes students beyond the technological aspects by bringing their vi
 <h3>Non-Academic Services and Resources</h3>
 <p>A list of non-academic support and services is also available at&nbsp;<a href="https://www.ucf.edu/services/" target="_blank" rel="noopener">UCF Student Services</a>. Click on&nbsp;"Support"&nbsp;on the right-hand side to filter.&nbsp;&nbsp;</p>
 <p>If you are a UCF Online student, please consult the&nbsp;<a href="https://www.ucf.edu/online/resources/guidelines/" target="_blank" rel="noopener">UCF Online Student Guidelines</a>&nbsp;for more information about your access to non-academic services.</p>
-            <a class="accordion-control" href="#" aria-controls="content-1" aria-expanded="false">Remote Instruction Through Zoom:</a> <p>Because of the continued remote instruction requirement due to the COVID-19 pandemic, this course will use Zoom for some synchronous (“real-time”) class meetings. Meeting dates and times will be scheduled through Webcourses@UCF and should appear on your calendar. Please take the time to familiarize yourself with Zoom by visiting the UCF Zoom Guides at <https://cdl.ucf.edu/support/webcourses/zoom/>. You may choose to use Zoom on your mobile device (phone or tablet).hings to Know About Zoom:</p>
+            <a class="accordion-control" href="#" aria-controls="content-1" aria-expanded="false"><h3>Remote Instruction Through Zoom:</h3></a> <p>Because of the continued remote instruction requirement due to the COVID-19 pandemic, this course will use Zoom for some synchronous (“real-time”) class meetings. Meeting dates and times will be scheduled through Webcourses@UCF and should appear on your calendar. Please take the time to familiarize yourself with Zoom by visiting the UCF Zoom Guides at <https://cdl.ucf.edu/support/webcourses/zoom/>. You may choose to use Zoom on your mobile device (phone or tablet).hings to Know About Zoom:</p>
 <li>    You must sign-in to the Zoom session using your UCF NID and password.</li>
 <li>	Only lecture parts of the Zoom sessions will be recorded, not discussions.</li>
 <li>	Improper classroom behavior is not tolerated within Zoom sessions and may result in a referral to the Office of Student Conduct.</li>
@@ -608,6 +605,7 @@ This course takes students beyond the technological aspects by bringing their vi
             <p> Students who believe they may have a COVID-19 diagnosis should contact Health Services so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID- 19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is located here: (https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor before missing class.</p>
                 </li>
             </ul>
+        <h3>
             <a class="accordion-control" href="#" aria-controls="content-3" aria-expanded="false"> In Case of Faculty Illness</a>
         </h3>
         </div>
