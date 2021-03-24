@@ -71,6 +71,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2 (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</li>
             <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
+     <br>
     </ul>
     </li>
     <li><h3>Unit 3</h3> (Weeks 9-12)
