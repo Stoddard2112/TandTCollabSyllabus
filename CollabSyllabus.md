@@ -47,6 +47,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>Brandeis and Warren, The Right to Privacy. Harvard Law Review, 1890.</li>
             <li>Shapiro, Stuart. "Places and spaces: The historical interaction of technology, home, and privacy.      "The Information Society 14.4 (1998): 275-284.</li>
+     <br>
     </ul>
     </li>
         <p><strong><em>
@@ -55,6 +56,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li> Arendt, H. (1998). The human condition (2nd ed). University of Chicago Press.</li>
             <li>Lederer, Scott, et al. “Personal Privacy through Understanding and Action: Five Pitfalls for Designers.” Personal and Ubiquitous Computing, vol. 8, no. 6, Nov. 2004, pp. 440–54. Springer Link, doi:10.1007/s00779-004-0304-9.</li>
+     <br>
     </ul>
     </li>
         <p><strong><em>
@@ -63,6 +65,7 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>Calo,M.Ryan(2011)"The Boundaries of Privacy Harm,"Indiana Law Journal: Vol. 86 :Iss. 3.Article 8. </li>
             <li> Daniel Solove, 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy, San Diego Law Review, Vol. 44, p. 745, 2007.</li>
+     <br>
     </ul>
     </li>
         <p><strong><em>
@@ -71,7 +74,6 @@ This course takes students beyond the technological aspects by bringing their vi
         <ul>
             <li>Hodkinson, Paul. "Bedrooms and beyond: Youth, identity and privacy on social network sites." New Media & Society 19.2 (2017): 272-288. Papathanassopoulos, Stylianos. "Privacy 2.0." Social Media+ Society 1.1 (2015): 2056305115578141.</li>
             <li>Marwick, Alice E., and Danah Boyd. "Networked privacy: How teenagers negotiate context in social media." New media & society 16.7 (2014): 1051-1067.</li>
-     <br>
     </ul>
     </li>
     <li><h3>Unit 3</h3> (Weeks 9-12)
